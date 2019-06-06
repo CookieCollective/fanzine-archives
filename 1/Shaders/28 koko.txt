@@ -1,0 +1,37 @@
+float l = length(p.xz);
+float at = atan(p.z, p.x);
+float d = INF;
+
+// Petals
+for (int ri = 0; ri < 15; ++ri) {
+  float RATIO = float(ri) / 15.;
+  float ANGLE = random(float(ri)) * TAU;
+  float SPANANGLE = 2.0 - RATIO * 1.;
+  float RADIUS = .1 + .6 * RATIO;
+  float HEIGHT = mix(.8, 1., sqrt(RATIO));
+  float OPENING = mix(-.1, .5, RATIO);
+  float a = amod(at - ANGLE, TAU);
+  float dr = min(d, (abs(a) - SPANANGLE) * l);
+  float r = atan(p.y * 5.) * 4. / TAU * RADIUS
+    + smoothstep(HEIGHT - .5, HEIGHT + .5, p.y)
+    * OPENING * RADIUS;
+  dr = max(dr, -length(p.xz) + r);
+  dr = max(dr, length(p.xz) - r - .02);
+  dr = max(dr, max(p.y - HEIGHT + pow(a, 2.) * .2, 0.));
+  d = min(d, dr);
+}
+
+// Leaves
+for (int li = 0; li < 5; ++li) {
+  float RATIO = float(li) / 5.;
+  vec3 q = p;
+  q.x -  = pow(q.y + .2, 2.) * .2;
+  q.y += .4 + float(li) * .3 + random(float(li)) * .05;
+  q.yz *= rz2(-(p.y + .2) * .2);
+  q.xz *= rz2(fract(sin(float(li) * 13. + 45.)) * TAU);
+  d = smin(d, leaf(q, .5 + RATIO * .3), .08);
+}
+m = mmin(mleaves, M(d, GREEN));
+
+// Jonathan Giroux - Koltes
+// https://www.shadertoy.com/view/Md2yDd

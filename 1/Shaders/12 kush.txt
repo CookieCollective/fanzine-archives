@@ -1,0 +1,24 @@
+float sphere(vec3 ray, vec3 pos, float radius) {
+  return length(ray-pos) - radius;
+}
+
+float cylinder(vec3 ray, vec3 pos,
+  float radius, float height) {
+  return max(
+    length(ray.xy - pos.xy) - radius,
+    abs(ray.z - pos.z) - height
+  );
+}
+
+float cube(vec3 ray, vec3 pos, float size) {
+  ray = abs(ray - pos) - size;
+  return max(max(ray.x, ray.y), ray.z);
+}
+
+float line(vec3 ray, vec3 pos, float size) {
+  ray = abs(ray - pos) - size;
+  return max(ray.z, ray.y);
+}
+
+// Kushulain
+// https://www.shadertoy.com/view/wsXSDn

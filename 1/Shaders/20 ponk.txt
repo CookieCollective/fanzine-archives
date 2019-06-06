@@ -1,0 +1,35 @@
+float chilly = noise(pos * 2.);
+float salty = fbm(pos * 20.);
+pos.z -= salty * .04;
+salty = smoothstep(.3, 1., salty);
+pos.z += salty * .04;
+pos.xy -= (chilly * 2. - 1.) * .2;
+
+vec3 p = pos;
+vec2 cell = vec2(1., .5);
+vec2 id = floor(p.xz / cell);
+p.xy *= rot(id.y * .5);
+p.y += sin(p.x + .5);
+p.xz = repeat(p.xz, cell);
+vec3 pp = p;
+moda(p.yz, 5.0);
+p.y -= .1;
+float scene = length(p.yz) - .02;
+
+vec3 ppp = pos;
+pp.xz *= rot(pp.y * 5.);
+ppp = repeat(ppp, .1);
+moda(pp.xz, 3.0);
+pp.x -= .04 + .02 * sin(pp.y * 5.);
+scene = smoothmin(length(pp.xz) - .01, scene, .2);
+
+p = pos;
+p.xy *= rot(-p.z);
+moda(p.xy, 8.0);
+p.x -= .7;
+p.xy *= rot(p.z * 8.);
+p.xy = abs(p.xy) - .02;
+return smoothmin(scene, length(p.xy) - .005, .2);
+
+// Leon Denise - ponk
+// https://www.shadertoy.com/view/wdXSWn

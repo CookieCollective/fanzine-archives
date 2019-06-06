@@ -1,0 +1,35 @@
+vec3 col;
+if(rock(p.xyz) < p.y) { // Rock
+  col = mix(vec3(1.), vec3(.2, .3, .1) * .4,
+    pow(clamp(nn.y * 1.1, 0., 1.), 4.));
+  col = mix(
+    mix(vec3(.3, .2, .1), vec3(.3, .28, .22) * 1.9,
+      clamp(p.z-70., 0., 1.)),
+    col, clamp(p.y*.3, 0., 1.));
+} else { // Sand
+  col = vec3(.3, .28, .22) * 1.9 * (noise(p * 10.)
+    * noise(p * vec3(.8, 0., 3.)) * .1 + .8);
+}
+
+float shad = ambientOcclusion(p, sunDir, vec2(7.,12.));
+float ao = ambientOcclusion(p, n, vec2(1.,1.5))
+  * ambientOcclusion(p, n, vec2(5., 8.));
+
+vec3 amb = vec3(.9, .97, 1.) * ao;
+vec3 diff = vec3(1., .8, .5) * min(max(dot(n, sunDir),
+  0.) * max(dot(nn, sunDir) * 1.2, .1) * shad * 6., 1.);
+vec3 ind = vec3(1., .8, .5) * max(dot(n, sunDir
+  * vec3(-1., 0., -1.)), 0.);
+vec3 skylight = vec3(.9, .97, 1.)
+  * clamp(.5 + .5 * n.y, 0., 1.) * ao;
+col *= amb * .3 + diff * .8 + ind * .1 + .2 * skylight;
+
+float a = clamp(-p.y*.4, 0., 1.);
+float b = pow(clamp(2.5 - displacement(p *
+  vec3(.5, 1., .3) * .05 + 1.) * 6. * a, .8, 1.), 4.);
+float c = pow(clamp(2.5 - displacement(p *
+  vec3(.5, 1., .4) * .08 + 10.) * 5. * a, .8, 1.), 4.);
+col = mix(col, vec3(.2, 1., .8) * .2 * (b - c + 1.), a);
+
+// Anat
+// https://www.shadertoy.com/view/Mst3Wr

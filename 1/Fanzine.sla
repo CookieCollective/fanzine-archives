@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.7">
+    <DOCUMENT ANZPAGES="28" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="5.66929133858268" BleedLeft="0" BleedRight="5.66929133858268" BleedBottom="5.66929133858268" ORIENTATION="0" PAGESIZE="A5" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="0.3881" UNITS="4" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="0" SHOWMARGIN="0" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0" dispY="0" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Gray" CMYK="#00000042" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <STYLE NAME="Code" LINESPMode="0" LINESP="15" INDENT="0" FIRST="0" VOR="0" FONT="Consolas Bold" FONTSIZE="13" FEATURES="shadowed" FCOLOR="White" SSHADE="100" TXTSHX="7" TXTSHY="-7" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="English"/>
+        <STYLE NAME="Author" PARENT="Code"/>
+        <STYLE NAME="Code Inversed" FONT="Consolas Bold" FEATURES="" SCOLOR="Gray" SSHADE="100" TXTSHX="10" TXTSHY="-10" TXTOUT="2" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="5.66929133858268" BleedLeft="5.66929133858268" BleedRight="5.66929133858268" BleedBottom="5.66929133858268" printer="" filename="D:/Projects/CookieFanzine/Fanzine.ps" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="5.66929133858268" BLeft="0" BRight="5.66929133858268" BBottom="5.66929133858268" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <DocFonts Name="Arial Regular"/>
+            <DocFonts Name="Consolas Bold"/>
+            <DocFonts Name="Consolas Regular"/>
+            <DocFonts Name="Kanit Bold"/>
+            <DocFonts Name="Kanit ExtraBold Regular"/>
+            <DocFonts Name="Lobster 1.4 Regular"/>
+            <Fonts Name="Kanit ExtraBold Regular"/>
+            <Fonts Name="Kanit Bold"/>
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Consolas Bold"/>
+            <Subset Name="Consolas Regular"/>
+            <Subset Name="Lobster 1.4 Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="27" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.28125984252" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal Left" MNAM="" Size="A4" Orientation="1" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="841.889763779528" PAGEHEIGHT="595.28125984252" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal Right" MNAM="" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="655.276535433071" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="655.276535433071" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1290.55181102362" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="1290.55181102362" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1925.82708661417" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="1925.82708661417" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3196.37763779528" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="3196.37763779528" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3831.65291338583" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="3831.65291338583" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4466.92818897638" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="13" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="4466.92818897638" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="14" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5102.20346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="15" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="5102.20346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="16" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5737.47874015748" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="17" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="43.2494 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="5737.47874015748" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="18" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6372.75401574803" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="19" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="6372.75401574803" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="20" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7008.02929133858" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="21" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="7008.02929133858" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="22" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7643.30456692913" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="23" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="7643.30456692913" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="24" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="4.72181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8278.57984251968" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="25" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="8278.57984251968" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="26" NAM="" MNAM="Normal Right" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8913.85511811024" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="27" NAM="" MNAM="Normal Left" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <FRAMEOBJECT OwnPage="-1" PTYPE="4" XPOS="106.94354331126" YPOS="7652.07582677213" WIDTH="808.1043307" HEIGHT="587.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 587.25 808.104 587.25 808.104 587.25 808.104 587.25 0 587.25 0 587.25 0 587.25 0 587.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 587.25 808.104 587.25 808.104 587.25 808.104 587.25 0 587.25 0 587.25 0 587.25 0 587.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="1" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="float l=length(p.xz);"/>
+            <para/>
+            <ITEXT CH="float at=atan(p.z,p.x);"/>
+            <para/>
+            <ITEXT CH="float d=INF;"/>
+            <para/>
+            <ITEXT CH="for(int ri=0;ri&lt;15;++ri){"/>
+            <para/>
+            <ITEXT CH="  float RATIO=float(ri)/15.;"/>
+            <para/>
+            <ITEXT CH="  float ANGLE=random(float(ri))*TAU;"/>
+            <para/>
+            <ITEXT CH="  float SPANANGLE=2.0-RATIO*1.;"/>
+            <para/>
+            <ITEXT CH="  float RADIUS=.1+.6*RATIO;"/>
+            <para/>
+            <ITEXT CH="  float HEIGHT=mix(.8,1.,sqrt(RATIO));"/>
+            <para/>
+            <ITEXT CH="  float OPENING=mix(-.1,.5,RATIO);"/>
+            <para/>
+            <ITEXT CH="  float a=amod(at-ANGLE,TAU);"/>
+            <para/>
+            <ITEXT CH="  float dr=min(d,(abs(a)-SPANANGLE)*l);"/>
+            <para/>
+            <ITEXT CH="  float r=atan(p.y*5.)*4./TAU*RADIUS;"/>
+            <para/>
+            <ITEXT CH="  r+=smoothstep(HEIGHT-.5,HEIGHT+.5,p.y)*OPENING*RADIUS;"/>
+            <para/>
+            <ITEXT CH="  dr=max(dr,-length(p.xz)+r);"/>
+            <para/>
+            <ITEXT CH="  dr=max(dr,length(p.xz)-r-.02);"/>
+            <para/>
+            <ITEXT CH="  dr=max(dr,max(p.y-HEIGHT+pow(a,2.)*.2,0.));"/>
+            <para/>
+            <ITEXT CH="  d=min(d,dr);"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <ITEXT CH="d=max(d,max(-p.y,0.));"/>
+            <para/>
+            <ITEXT CH="M mleaves=M(d,PINK);"/>
+            <para/>
+            <ITEXT CH="d=length(p.xz)-exp(-pow(p.y-0.3,2.)*10.)*.3;"/>
+            <para/>
+            <ITEXT CH="d=max(d,-p.y-.2);"/>
+            <para/>
+            <ITEXT CH="d=smin(d,length(p.xz-vec2(pow(p.y+.2,2.)*.2,0.))-.03,.02);"/>
+            <para/>
+            <ITEXT CH="d=max(d,p.y-.2);"/>
+            <para/>
+            <ITEXT CH="d=max(d,-p.y-2.);"/>
+            <para/>
+            <ITEXT CH="for(int li=0;li&lt;5;++li){"/>
+            <para/>
+            <ITEXT CH="  float RATIO=float(li)/5.;"/>
+            <para/>
+            <ITEXT CH="  vec3 q=p;"/>
+            <para/>
+            <ITEXT CH="  q.x-=pow(q.y+.2,2.)*.2;"/>
+            <para/>
+            <ITEXT CH="  q.y+=.4+float(li)*.3+random(float(li))*.05;"/>
+            <para/>
+            <ITEXT CH="  q.yz*=rz2(-(p.y+.2)*.2);"/>
+            <para/>
+            <ITEXT CH="  q.xz*=rz2(fract(sin(float(li)*13.+45.))*TAU);"/>
+            <para/>
+            <ITEXT CH="  d=smin(d,leaf(q,.5+RATIO*.3),.08);"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <ITEXT CH="m=mmin(mleaves,M(d,GREEN));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Jonathan Giroux - Koltes"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/Md2yDd"/>
+            <trail/>
+            <PageItemAttributes/>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT OwnPage="-1" PTYPE="4" XPOS="106.94354331126" YPOS="7652.07582677213" WIDTH="808.1043307" HEIGHT="587.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 587.25 808.104 587.25 808.104 587.25 808.104 587.25 0 587.25 0 587.25 0 587.25 0 587.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 587.25 808.104 587.25 808.104 587.25 808.104 587.25 0 587.25 0 587.25 0 587.25 0 587.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="1" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="float l=length(p.xz);"/>
+            <para/>
+            <ITEXT CH="float at=atan(p.z,p.x);"/>
+            <para/>
+            <ITEXT CH="float d=INF;"/>
+            <para/>
+            <ITEXT CH="for(int ri=0;ri&lt;15;++ri){"/>
+            <para/>
+            <ITEXT CH="  float RATIO=float(ri)/15.;"/>
+            <para/>
+            <ITEXT CH="  float ANGLE=random(float(ri))*TAU;"/>
+            <para/>
+            <ITEXT CH="  float SPANANGLE=2.0-RATIO*1.;"/>
+            <para/>
+            <ITEXT CH="  float RADIUS=.1+.6*RATIO;"/>
+            <para/>
+            <ITEXT CH="  float HEIGHT=mix(.8,1.,sqrt(RATIO));"/>
+            <para/>
+            <ITEXT CH="  float OPENING=mix(-.1,.5,RATIO);"/>
+            <para/>
+            <ITEXT CH="  float a=amod(at-ANGLE,TAU);"/>
+            <para/>
+            <ITEXT CH="  float dr=min(d,(abs(a)-SPANANGLE)*l);"/>
+            <para/>
+            <ITEXT CH="  float r=atan(p.y*5.)*4./TAU*RADIUS;"/>
+            <para/>
+            <ITEXT CH="  r+=smoothstep(HEIGHT-.5,HEIGHT+.5,p.y)*OPENING*RADIUS;"/>
+            <para/>
+            <ITEXT CH="  dr=max(dr,-length(p.xz)+r);"/>
+            <para/>
+            <ITEXT CH="  dr=max(dr,length(p.xz)-r-.02);"/>
+            <para/>
+            <ITEXT CH="  dr=max(dr,max(p.y-HEIGHT+pow(a,2.)*.2,0.));"/>
+            <para/>
+            <ITEXT CH="  d=min(d,dr);"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <ITEXT CH="d=max(d,max(-p.y,0.));"/>
+            <para/>
+            <ITEXT CH="M mleaves=M(d,PINK);"/>
+            <para/>
+            <ITEXT CH="d=length(p.xz)-exp(-pow(p.y-0.3,2.)*10.)*.3;"/>
+            <para/>
+            <ITEXT CH="d=max(d,-p.y-.2);"/>
+            <para/>
+            <ITEXT CH="d=smin(d,length(p.xz-vec2(pow(p.y+.2,2.)*.2,0.))-.03,.02);"/>
+            <para/>
+            <ITEXT CH="d=max(d,p.y-.2);"/>
+            <para/>
+            <ITEXT CH="d=max(d,-p.y-2.);"/>
+            <para/>
+            <ITEXT CH="for(int li=0;li&lt;5;++li){"/>
+            <para/>
+            <ITEXT CH="  float RATIO=float(li)/5.;"/>
+            <para/>
+            <ITEXT CH="  vec3 q=p;"/>
+            <para/>
+            <ITEXT CH="  q.x-=pow(q.y+.2,2.)*.2;"/>
+            <para/>
+            <ITEXT CH="  q.y+=.4+float(li)*.3+random(float(li))*.05;"/>
+            <para/>
+            <ITEXT CH="  q.yz*=rz2(-(p.y+.2)*.2);"/>
+            <para/>
+            <ITEXT CH="  q.xz*=rz2(fract(sin(float(li)*13.+45.))*TAU);"/>
+            <para/>
+            <ITEXT CH="  d=smin(d,leaf(q,.5+RATIO*.3),.08);"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <ITEXT CH="m=mmin(mleaves,M(d,GREEN));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Jonathan Giroux - Koltes"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/Md2yDd"/>
+            <trail/>
+            <PageItemAttributes/>
+        </FRAMEOBJECT>
+        <PAGEOBJECT OwnPage="27" PTYPE="2" XPOS="97.1659842488188" YPOS="9064.58688976095" WIDTH="425.1968504" HEIGHT="434.1427559" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.207615649609375" LOCALSCY="0.207615649609375" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Preamble/cookie.0.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 434.143 425.197 434.143 425.197 434.143 425.197 434.143 0 434.143 0 434.143 0 434.143 0 434.143 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 434.143 425.197 434.143 425.197 434.143 425.197 434.143 0 434.143 0 434.143 0 434.143 0 434.143 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="94.3313385822598" YPOS="649.607244094071" WIDTH="425.196850394118" HEIGHT="460.1905512" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.207615649606503" LOCALSCY="0.207615649606503" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="back.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 460.191 425.197 460.191 425.197 460.191 425.197 460.191 0 460.191 0 460.191 0 460.191 0 460.191 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 460.191 425.197 460.191 425.197 460.191 425.197 460.191 0 460.191 0 460.191 0 460.191 0 460.191 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="519.528188976378" YPOS="1284.88251968504" WIDTH="425.196850393701" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536142361" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Preamble/img0 (1).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 606.614 425.197 606.614 425.197 606.614 425.197 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 606.614 425.197 606.614 425.197 606.614 425.197 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="596.080708655118" YPOS="759.25" WIDTH="280.770314966929" HEIGHT="421.459606299213" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTFEATURES="inherit" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="12" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Consolas Bold" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 280.77 0 280.77 0 280.77 0 280.77 0 280.77 421.46 280.77 421.46 280.77 421.46 280.77 421.46 0 421.46 0 421.46 0 421.46 0 421.46 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 280.77 0 280.77 0 280.77 0 280.77 0 280.77 421.46 280.77 421.46 280.77 421.46 280.77 421.46 0 421.46 0 421.46 0 421.46 0 421.46 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Consolas Bold" FONTSIZE="13" FEATURES="inherit" FCOLOR="Black" KERN="0" CH="Les shaders c'est comme de la poésie."/>
+            <para ALIGN="0"/>
+            <ITEXT KERN="0" CH="C'est un texte codifié qui prend sens quand on connaît les règles qui le régissent."/>
+            <ITEXT CH=" "/>
+            <ITEXT KERN="0" CH="À la manière d'un alexandrin ou d'un haiku, un shader est une composition de mots arrangée selon des contraintes techniques et artistiques."/>
+            <para ALIGN="0"/>
+            <para ALIGN="0"/>
+            <ITEXT KERN="0" CH="Les shaders c'est comme de la cuisine."/>
+            <para ALIGN="0"/>
+            <ITEXT KERN="0" CH="Le texte est une recette avec des instructions qui mélangent des variables et d'autres ingrédients. Le shader cuit ensuite au four thermostat 6 pour assouvir l'appétit de la carte graphique."/>
+            <para ALIGN="0"/>
+            <para ALIGN="0"/>
+            <ITEXT KERN="0" CH="Les prochaines pages présentent des visuels générés par des shaders accompagnés d'extraits de leur code."/>
+            <para ALIGN="0"/>
+            <ITEXT KERN="0" CH="La première page contient des fonctions qui sont des bases communes pour les shaders suivants. Avec ces derniers, le code se concentre sur la partie croustillante."/>
+            <para ALIGN="0"/>
+            <para ALIGN="0"/>
+            <ITEXT KERN="0" CH="La totalité du texte peut être retrouvé grâce au lien "/>
+            <ITEXT FONT="Lobster 1.4 Regular" FONTSIZE="13" KERN="0" CH="ShaderToy.com"/>
+            <ITEXT KERN="0" CH=" en bas de page."/>
+            <ITEXT CH=" Attention aux majuscules et minuscules !"/>
+            <para ALIGN="0"/>
+            <para ALIGN="0"/>
+            <ITEXT KERN="0" CH="Le Collectif Cookie existe grâce à la communauté de la demoscene. Ce fanzine présente les travaux de membres du collectif."/>
+            <trail ALIGN="0"/>
+            <Tabs Type="0" Pos="24" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="552.284094488189" YPOS="43.6548031496063" WIDTH="354.015748031496" HEIGHT="122.845196850394" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 354.016 0 354.016 0 354.016 0 354.016 0 354.016 122.845 354.016 122.845 354.016 122.845 354.016 122.845 0 122.845 0 122.845 0 122.845 0 122.845 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 354.016 0 354.016 0 354.016 0 354.016 0 354.016 122.845 354.016 122.845 354.016 122.845 354.016 122.845 0 122.845 0 122.845 0 122.845 0 122.845 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Kanit ExtraBold Regular" FONTSIZE="93" CH="COOKIE"/>
+            <trail ALIGN="1" LINESPMode="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="488.886456708662" YPOS="111.65480315252" WIDTH="479.393700755905" HEIGHT="100.59519684748" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 479.394 0 479.394 0 479.394 0 479.394 0 479.394 100.595 479.394 100.595 479.394 100.595 479.394 100.595 0 100.595 0 100.595 0 100.595 0 100.595 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 479.394 0 479.394 0 479.394 0 479.394 0 479.394 100.595 479.394 100.595 479.394 100.595 479.394 100.595 0 100.595 0 100.595 0 100.595 0 100.595 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Kanit ExtraBold Regular" FONTSIZE="58" SCALEV="100" CH="COLLECTIVE"/>
+            <trail ALIGN="1" LINESPMode="0"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="94.3313385826771" YPOS="1284.88251968504" WIDTH="425.196850393701" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536142361" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Preamble/img0.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 606.614 425.197 606.614 425.197 606.614 425.197 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 606.614 425.197 606.614 425.197 606.614 425.197 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="554.528188976378" YPOS="177.595196850394" WIDTH="413.901692869751" HEIGHT="366.443606484849" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.192561012340961" LOCALSCY="0.192561012340961" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="cover.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 413.902 0 413.902 0 413.902 0 413.902 0 413.902 366.444 413.902 366.444 413.902 366.444 413.902 366.444 0 366.444 0 366.444 0 366.444 0 366.444 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 413.902 0 413.902 0 413.902 0 413.902 0 413.902 366.444 413.902 366.444 413.902 366.444 413.902 366.444 0 366.444 0 366.444 0 366.444 0 366.444 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="23" PTYPE="2" XPOS="94.331338582677" YPOS="7637.63527559055" WIDTH="850.393700787402" HEIGHT="606.614173228346" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536142361" LOCALSCY="0.244602489204978" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Florine/img0.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="17" PTYPE="2" XPOS="94.331338582677" YPOS="5731.80944881889" WIDTH="850.393700787402" HEIGHT="606.614173228346" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536142361" LOCALSCY="0.244602489204978" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../ShaderlandScreenshot/Screenshots/3508x2480_2019-02-22_12-04-57.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="850.394 0 850.394 0 -0.000299213 0 -0.000299213 0 -0.000299213 0 -0.000299213 0 -0.000299213 606.614 -0.000299213 606.614 -0.000299213 606.614 -0.000299213 606.614 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 850.394 0 850.394 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.615 850.394 606.615 850.394 606.615 850.394 606.615 0 606.615 0 606.615 0 606.615 0 606.615 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="769.094803146457" YPOS="154.338582677165" WIDTH="157.489842522418" HEIGHT="26.6653543307089" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 157.49 0 157.49 0 157.49 0 157.49 0 157.49 26.6654 157.49 26.6654 157.49 26.6654 157.49 26.6654 0 26.6654 0 26.6654 0 26.6654 0 26.6654 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 157.49 0 157.49 0 157.49 0 157.49 0 157.49 26.6654 157.49 26.6654 157.49 26.6654 157.49 26.6654 0 26.6654 0 26.6654 0 26.6654 0 26.6654 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Kanit Bold" FONTSIZE="16" FCOLOR="Black" KERN="0" CH="#1 FEV 2019"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="556.547401571654" YPOS="562.276850393701" WIDTH="345.489133864567" HEIGHT="63.0268503937007" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 345.489 0 345.489 0 345.489 0 345.489 0 345.489 63.0269 345.489 63.0269 345.489 63.0269 345.489 63.0269 0 63.0269 0 63.0269 0 63.0269 0 63.0269 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 345.489 0 345.489 0 345.489 0 345.489 0 345.489 63.0269 345.489 63.0269 345.489 63.0269 345.489 63.0269 0 63.0269 0 63.0269 0 63.0269 0 63.0269 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Kanit ExtraBold Regular" FONTSIZE="25" CH="RECUEIL DE SHADERS"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="27" PTYPE="4" XPOS="119.48125984252" YPOS="8942.18582677165" WIDTH="380.566299212598" HEIGHT="194.487401574803" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="-2" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Consolas Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 380.566 0 380.566 0 380.566 0 380.566 0 380.566 194.487 380.566 194.487 380.566 194.487 380.566 194.487 0 194.487 0 194.487 0 194.487 0 194.487 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 380.566 0 380.566 0 380.566 0 380.566 0 380.566 194.487 380.566 194.487 380.566 194.487 380.566 194.487 0 194.487 0 194.487 0 194.487 0 194.487 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Consolas Regular" KERN="-2" CH="Le Collectif Cookie regroupe des artistes numériques spécialisés dans la création temps-réel. Cela inclut les jeux vidéo, les installations interactives, le vidéo-mapping, la demoscene, le live coding, etc."/>
+            <para ALIGN="1"/>
+            <para/>
+            <ITEXT FONT="Consolas Regular" KERN="-2" CH="Nous organisons la Cookie Demoparty, un festival d'art numérique qui réunit plusieurs communautés et présente des demos, jeux vidéo expérimentaux, machinimas, et concerts."/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Consolas Regular" KERN="-2" CH="Et des live coding jams régulières, dans lesquelles des artistes s’entraînent et créent des visuels et sons sous les yeux du public."/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="17" PTYPE="4" XPOS="116.27881894252" YPOS="5745.80944881889" WIDTH="403.249370033858" HEIGHT="584.94055118111" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 403.249 0 403.249 0 403.249 0 403.249 0 403.249 584.941 403.249 584.941 403.249 584.941 403.249 584.941 0 584.941 0 584.941 0 584.941 0 584.941 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 403.249 0 403.249 0 403.249 0 403.249 0 403.249 584.941 403.249 584.941 403.249 584.941 403.249 584.941 0 584.941 0 584.941 0 584.941 0 584.941 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="float chilly = noise(pos * 2.);"/>
+            <para/>
+            <ITEXT CH="float salty = fbm(pos * 20.);"/>
+            <para/>
+            <ITEXT CH="pos.z -= salty * .04;"/>
+            <para/>
+            <ITEXT CH="salty = smoothstep(.3, 1., salty);"/>
+            <para/>
+            <ITEXT CH="pos.z += salty * .04;"/>
+            <para/>
+            <ITEXT CH="pos.xy -= (chilly * 2. - 1.) * .2;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="vec3 p = pos;"/>
+            <para/>
+            <ITEXT CH="vec2 cell = vec2(1., .5);"/>
+            <para/>
+            <ITEXT CH="vec2 id = floor(p.xz / cell);"/>
+            <para/>
+            <ITEXT CH="p.xy *= rot(id.y * .5);"/>
+            <para/>
+            <ITEXT CH="p.y += sin(p.x + .5);"/>
+            <para/>
+            <ITEXT CH="p.xz = repeat(p.xz, cell);"/>
+            <para/>
+            <ITEXT CH="vec3 pp = p;"/>
+            <para/>
+            <ITEXT CH="moda(p.yz, 5.0);"/>
+            <para/>
+            <ITEXT CH="p.y -= .1;"/>
+            <para/>
+            <ITEXT CH="float scene = length(p.yz) - .02;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="vec3 ppp = pos;"/>
+            <para/>
+            <ITEXT CH="pp.xz *= rot(pp.y * 5.);"/>
+            <para/>
+            <ITEXT CH="ppp = repeat(ppp, .1);"/>
+            <para/>
+            <ITEXT CH="moda(pp.xz, 3.0);"/>
+            <para/>
+            <ITEXT CH="pp.x -= .04 + .02 * sin(pp.y * 5.);"/>
+            <para/>
+            <ITEXT CH="scene = smoothmin(length(pp.xz) - .01, scene, .2);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="p = pos;"/>
+            <para/>
+            <ITEXT CH="p.xy *= rot(-p.z);"/>
+            <para/>
+            <ITEXT CH="moda(p.xy, 8.0);"/>
+            <para/>
+            <ITEXT CH="p.x -= .7;"/>
+            <para/>
+            <ITEXT CH="p.xy *= rot(p.z * 8.);"/>
+            <para/>
+            <ITEXT CH="p.xy = abs(p.xy) - .02;"/>
+            <para/>
+            <ITEXT CH="return smoothmin(scene, length(p.xy) - .005, .2);"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Leon Denise - ponk"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/wdXSWn"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="23" PTYPE="4" XPOS="113.943543307087" YPOS="7658.7668897811" WIDTH="808.104330708662" HEIGHT="576.978622029924" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 576.979 808.104 576.979 808.104 576.979 808.104 576.979 0 576.979 0 576.979 0 576.979 0 576.979 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 576.979 808.104 576.979 808.104 576.979 808.104 576.979 0 576.979 0 576.979 0 576.979 0 576.979 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="vec3 n = get_norm(p);"/>
+            <para PARENT="Author"/>
+            <ITEXT CH="float fre = pow(clamp(1. - dot(n, -rd), 0., 1.), 3.);"/>
+            <para/>
+            <ITEXT CH="vec3 keypos = vec3(-8., 10., -10.);"/>
+            <para/>
+            <ITEXT CH="vec3 rimpos = vec3(5., -2., 5.);"/>
+            <para/>
+            <ITEXT CH="vec3 specpos = vec3(-3.,6., -3.);"/>
+            <para/>
+            <ITEXT CH="vec3 global_lighting = mix(vec3(.2, .1,0.),"/>
+            <para/>
+            <ITEXT CH="  vec3(.8, .8, .5), dirlight(n, keypos));"/>
+            <para/>
+            <ITEXT CH="vec3 rim_lighting = vec3(.1, .5, .8)"/>
+            <para/>
+            <ITEXT CH="  * dirlight(n, rimpos);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="if (mat == 0) {"/>
+            <para/>
+            <ITEXT CH="  vec3 albedo = vec3(rand(t_id + 2.), 1.,"/>
+            <para/>
+            <ITEXT CH="    rand(t_id + 4.)) * 0.5;"/>
+            <para/>
+            <ITEXT CH="  col = albedo;"/>
+            <para/>
+            <ITEXT CH="  col += global_lighting + rim_lighting;"/>
+            <para/>
+            <ITEXT CH="  col += spec_light(rd, n, specpos, 2.);"/>
+            <para/>
+            <ITEXT CH="  col /= 3.;"/>
+            <para/>
+            <ITEXT CH="} else if (mat == 1) {"/>
+            <para/>
+            <ITEXT CH="  vec3 albedo = vec3(.8, .8, 1.);"/>
+            <para/>
+            <ITEXT CH="  col = albedo;"/>
+            <para/>
+            <ITEXT CH="  col += global_lighting + rim_lighting;"/>
+            <para/>
+            <ITEXT CH="  col /= 2.;"/>
+            <para/>
+            <ITEXT CH="  col += fre;"/>
+            <para/>
+            <ITEXT CH="} else if (mat == 2) {"/>
+            <para/>
+            <ITEXT CH="  vec3 albedo = vec3(.8, .7, 0.);"/>
+            <para/>
+            <ITEXT CH="  col = albedo;"/>
+            <para/>
+            <ITEXT CH="  col += global_lighting + rim_lighting;"/>
+            <para/>
+            <ITEXT CH="  col += spec_light(rd, n, keypos, 16.)"/>
+            <para/>
+            <ITEXT CH="    * vec3(1., .6, .5);"/>
+            <para/>
+            <ITEXT CH="  col /= 3.;"/>
+            <para/>
+            <ITEXT CH="  col += fre;"/>
+            <para/>
+            <ITEXT CH="} else if (mat == 3) {"/>
+            <para/>
+            <ITEXT CH="  col = global_lighting;"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Flopine"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/wslXR7"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="94.331338582677" YPOS="1920.15779527558" WIDTH="850.393700787402" HEIGHT="606.614173228346" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536142361" LOCALSCY="0.244602489204978" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Anton/img0.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.615 850.394 606.615 850.394 606.615 850.394 606.615 0 606.615 0 606.615 0 606.615 0 606.615 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="113.274251976378" YPOS="1938.11086612362" WIDTH="679.599133850393" HEIGHT="582.991811041732" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 679.599 0 679.599 0 679.599 0 679.599 0 679.599 582.992 679.599 582.992 679.599 582.992 679.599 582.992 0 582.992 0 582.992 0 582.992 0 582.992 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 679.599 0 679.599 0 679.599 0 679.599 0 679.599 582.992 679.599 582.992 679.599 582.992 679.599 582.992 0 582.992 0 582.992 0 582.992 0 582.992 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="vec3 cp = p;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="float dist = 1000.;"/>
+            <para/>
+            <ITEXT CH="float time = TIME * .25;"/>
+            <para/>
+            <ITEXT CH="p *= .36;"/>
+            <para/>
+            <ITEXT CH="p.zx *= rot(-time * .25);"/>
+            <para/>
+            <ITEXT CH="p.xz *= rot(p.z*1.1);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="for (float it = 0.; it &lt; 2.; it += 1.) {"/>
+            <para/>
+            <ITEXT CH="  p.xz *= rot(sin(p.y + time + fract(sin(it * 2369.)))"/>
+            <para/>
+            <ITEXT CH="    * PI / (it + 1.) * .5);"/>
+            <para/>
+            <ITEXT CH="  p.zy *= rot(time+PI);"/>
+            <para/>
+            <ITEXT CH="  vec3 ap = max(vec3(0.), abs(p)) - 1.;"/>
+            <para/>
+            <ITEXT CH="  float cu = length(ap) - .5"/>
+            <para/>
+            <ITEXT CH="    + min(max(ap.x, max(ap.y, ap.z)), 0.);"/>
+            <para/>
+            <ITEXT CH="  dist = smin(dist, cu , .25);"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="p = cp;"/>
+            <para/>
+            <ITEXT CH="p.xz *= rot(-time * .5);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="float rad = 5.;"/>
+            <para/>
+            <ITEXT CH="float wi = .5;"/>
+            <para/>
+            <ITEXT CH="float sph = length(p) - rad + wi /2.;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="dist = -smin(sph, -dist, .15);"/>
+            <para/>
+            <ITEXT CH="sph = length(p) - rad - wi /2.;"/>
+            <para/>
+            <ITEXT CH="dist = -smin(-sph, -dist, .15);"/>
+            <para/>
+            <ITEXT CH="sph = distance(cp, vec3(0., 0., -5.)) - 2.;"/>
+            <para/>
+            <ITEXT CH="dist = -smin(sph, -dist, .3);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="return dist;"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Anton Roy - antonOTI"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/WsfXDr"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="108.504566929134" YPOS="1298.3605511811" WIDTH="402.51968503937" HEIGHT="579.658110236221" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="12" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 402.52 0 402.52 0 402.52 0 402.52 0 402.52 579.658 402.52 579.658 402.52 579.658 402.52 579.658 0 579.658 0 579.658 0 579.658 0 579.658 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 402.52 0 402.52 0 402.52 0 402.52 0 402.52 579.658 402.52 579.658 402.52 579.658 402.52 579.658 0 579.658 0 579.658 0 579.658 0 579.658 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="float hash(float n) { return fract(sin(n) * 1e4); }"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float noise(vec3 x) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  const vec3 step = vec3(110, 241, 171);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3 i = floor(x);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3 f = fract(x);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  float n = dot(i, step);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3 u = f * f * (3.0 - 2.0 * f);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  return mix(mix(mix(hash(n + dot(step, vec3(0,0,0))),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                     hash(n + dot(step, vec3(1,0,0))),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                     u.x),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                 mix(hash(n + dot(step, vec3(0,1,0))),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                     hash(n + dot(step, vec3(1,1,0))),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                     u.x), u.y),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="             mix(mix(hash(n + dot(step, vec3(0,0,1))),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                     hash(n + dot(step, vec3(1,0,1))),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                     u.x),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                 mix(hash(n + dot(step, vec3(0,1,1))),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                     hash(n + dot(step, vec3(1,1,1))),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                     u.x), u.y), u.z);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float fbm(vec3 p) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  float amplitude = .5;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  float result = 0.;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  for (float index = 0.; index &lt;= 4.0; ++index) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    result += noise(p / amplitude) * amplitude;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    amplitude /= 2.;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  }"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  return result;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="void mainImage(out vec4 fragColor, in vec2 fragCoord) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec2 uv = (fragCoord - .5*iResolution.xy)"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    / iResolution.y;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3 seed = vec3(uv * 4.0, 0);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  float salty = fbm(seed * 40.0);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  float curry = fbm(seed + vec3(noise(seed * 2.) * .5));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  fragColor = vec4(curry - salty * .1);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="}"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// Noise Example using the work of Morgan McGuire"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// https://www.shadertoy.com/view/tdXXWn"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="2" XPOS="94.3313385826771" YPOS="4461.2588976378" WIDTH="850.3937008" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536145952" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Ben/img0.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="13" PTYPE="4" XPOS="113.778188976378" YPOS="4479.77070866142" WIDTH="817.302519685039" HEIGHT="582.433070866143" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 817.303 0 817.303 0 817.303 0 817.303 0 817.303 582.433 817.303 582.433 817.303 582.433 817.303 582.433 0 582.433 0 582.433 0 582.433 0 582.433 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 817.303 0 817.303 0 817.303 0 817.303 0 817.303 582.433 817.303 582.433 817.303 582.433 817.303 582.433 0 582.433 0 582.433 0 582.433 0 582.433 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="// One morning we woke up when the sky was still dark."/>
+            <para PARENT="Author"/>
+            <ITEXT FONTSIZE="13" CH="// We walked half an hour through the forest,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// to reach the other side of the island,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// where the beach is facing the rising sun."/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// The sun was already there, one half over the horizon."/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// The sky was on fire."/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// We swum in the sea, staring at the rising sun."/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float l = dot(n, normalize(vec3(uv.x, -.2, uv.y + .5)));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="l = clamp(l, 0., 1.);"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 cloudColor = mix(baseSkyColor, darkColor,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  length(uvInit) * 1.7);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="cloudColor = mix(cloudColor, sunColor, l);"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 skyColor = mix(lightColor, baseSkyColor,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  clamp(uvInit.y * 2., 0., 1.));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="skyColor = mix(skyColor, darkColor,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  clamp(uvInit.y * 3. - .8, 0., 1.));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="skyColor = mix(skyColor, sunColor,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  clamp(-uvInit.y * 10. + 1.1, 0., 1.));"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="if(length(uvInit-vec2(0.,.04)) &lt; .03) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="   skyColor += vec3(2.,1.,.8);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float cloudMix = clouds * 4. - 8.;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 color = mix(cloudColor, skyColor,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  clamp(cloudMix, 0.,1.));"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="uvInit.y = abs(uvInit.y);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float islandHeight = texture(iChannel1, uvInit.xx / 2."/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  + .67).r / 15. - uvInit.y + .978;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="islandHeight += texture(iChannel1, uvInit.xx*2.).r/60.;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="islandHeight = clamp(floor(islandHeight),0.,1.);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 landColor = mix(baseSkyColor, darkColor,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  length(uvInit) * 1.5);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="color = mix(color, landColor, islandHeight);"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// Benjamin Vedrenne - GLKT"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// https://www.shadertoy.com/view/4d2BRz"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="2" XPOS="94.3313385826771" YPOS="3825.98362204725" WIDTH="850.3937008" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536145952" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Antoine/img0 (2).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="850.394 0 850.394 0 0 0 0 0 0 0 0 0 0 606.614 0 606.614 0 606.614 0 606.614 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 850.394 0 850.394 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.615 850.394 606.615 850.394 606.615 850.394 606.615 0 606.615 0 606.615 0 606.615 0 606.615 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="11" PTYPE="4" XPOS="114.173858267717" YPOS="3842.81826766772" WIDTH="677.076141725984" HEIGHT="581.2755906" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 677.076 0 677.076 0 677.076 0 677.076 0 677.076 581.276 677.076 581.276 677.076 581.276 677.076 581.276 0 581.276 0 581.276 0 581.276 0 581.276 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 677.076 0 677.076 0 677.076 0 677.076 0 677.076 581.276 677.076 581.276 677.076 581.276 677.076 581.276 0 581.276 0 581.276 0 581.276 0 581.276 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="float rep = 10.;"/>
+            <para/>
+            <ITEXT CH="p.y -= max(0., abs(p.x) - 10.) * .3;"/>
+            <para/>
+            <ITEXT CH="p.x = (fract(p.x / rep - .5) - .5) * rep;"/>
+            <para/>
+            <ITEXT CH="p += tunnel(p);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="vec3 rp = p;"/>
+            <para/>
+            <ITEXT CH="float boxrep = 10.;"/>
+            <para/>
+            <ITEXT CH="rp.z = (fract(rp.z / boxrep - .5) - .5) * boxrep;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="vec3 rp2 = p;"/>
+            <para/>
+            <ITEXT CH="float boxrep2 = 1.;"/>
+            <para/>
+            <ITEXT CH="rp2.x=abs(rp2.x) - .4;"/>
+            <para/>
+            <ITEXT CH="rp2.z = (fract(rp2.z / boxrep2 - .5) - .5) * boxrep2;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="float b = box(rp + vec3(0, -9, 0), vec3(.6, 10.5, .6));"/>
+            <para/>
+            <ITEXT CH="vec3 rp3 = rp + vec3(0, 1.5, 0);"/>
+            <para/>
+            <ITEXT CH="rp3.xy *= rot(PI * .3);"/>
+            <para/>
+            <ITEXT CH="rp3.yz *= rot(PI * .3);"/>
+            <para/>
+            <ITEXT CH="float b2 = box(rp3, vec3(0.7));"/>
+            <para/>
+            <ITEXT CH="b2 = max(b2, p.y + 1.5);"/>
+            <para/>
+            <ITEXT CH="b = min(b, b2);  "/>
+            <para/>
+            <para/>
+            <ITEXT CH="float st = stair(p, .1, .4);"/>
+            <para/>
+            <ITEXT CH="float st2 = stair(p + vec3(0, .7, 0), .6, .4);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="b = max(b, -st2);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="float c = box(rp2 + vec3(0, .3, 0), vec3(.05, .3, .2));"/>
+            <para/>
+            <ITEXT CH="rp2.y = abs(rp2.y + .43) - .1;"/>
+            <para/>
+            <ITEXT CH="c = min(c, box(rp2, vec3(.03, .03, 1.)));  "/>
+            <para/>
+            <para/>
+            <ITEXT CH="return min(c, min(b, st));"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Antoine Zanuttini - NuSan"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/3sBGzV"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="528.032125984252" YPOS="1298.3605511811" WIDTH="402.51968503937" HEIGHT="579.658110236221" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="12" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 402.52 0 402.52 0 402.52 0 402.52 0 402.52 579.658 402.52 579.658 402.52 579.658 402.52 579.658 0 579.658 0 579.658 0 579.658 0 579.658 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 402.52 0 402.52 0 402.52 0 402.52 0 402.52 579.658 402.52 579.658 402.52 579.658 402.52 579.658 0 579.658 0 579.658 0 579.658 0 579.658 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="float map(vec3 pos) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  float cell = 3.;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  pos = mod(pos, cell) - cell * .5;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  return length(pos) - 1.;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 getNormal (vec3 pos) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec2 e = vec2(1.0, -1.0) * 0.5773 * 0.0005;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  return normalize(e.xyy * map(pos + e.xyy) + "/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                   e.yyx * map(pos + e.yyx) + "/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                   e.yxy * map(pos + e.yxy) + "/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="                   e.xxx * map(pos + e.xxx));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="void mainImage(out vec4 fragColor, in vec2 fragCoord) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec2 uv = (fragCoord - .5*iResolution.xy)"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    / iResolution.y;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3 eye = vec3(0, 0, -2);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3 ray = normalize(vec3(uv, 1.));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  float shade = 0.;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  for (float index = 100.; index &gt; 0.; --index) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    float dist = map(eye);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    if (dist &lt; 0.001) {"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="      shade = index / 100.;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="      break;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    }"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    eye += ray * dist;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  }"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3 normal = getNormal(eye) * .5 + .5;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  fragColor = vec4(normal * shade, 1);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="}"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// Raymarching Example using the work of Inigo Quilez"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// https://www.shadertoy.com/view/tsXXWn"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="27" PTYPE="4" XPOS="111.339212598426" YPOS="9451.5874015748" WIDTH="396.850393700787" HEIGHT="47.3429133858263" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFEATURES="inherit" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Consolas Regular" ISIZE="29" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 396.85 0 396.85 0 396.85 0 396.85 0 396.85 47.3429 396.85 47.3429 396.85 47.3429 396.85 47.3429 0 47.3429 0 47.3429 0 47.3429 0 47.3429 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 396.85 0 396.85 0 396.85 0 396.85 0 396.85 47.3429 396.85 47.3429 396.85 47.3429 396.85 47.3429 0 47.3429 0 47.3429 0 47.3429 0 47.3429 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Consolas Regular" FONTSIZE="29" FEATURES="inherit" KERN="0" CH="www.cookie.paris"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="25" PTYPE="2" XPOS="94.3313385763779" YPOS="8272.91055119528" WIDTH="850.3937008" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536145952" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Jo/img0 (1).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="25" PTYPE="4" XPOS="107.94354331126" YPOS="8284.51645669292" WIDTH="808.1043307" HEIGHT="587.250000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 587.25 808.104 587.25 808.104 587.25 808.104 587.25 0 587.25 0 587.25 0 587.25 0 587.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 587.25 808.104 587.25 808.104 587.25 808.104 587.25 0 587.25 0 587.25 0 587.25 0 587.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="float l = length(p.xz);"/>
+            <para/>
+            <ITEXT CH="float at = atan(p.z, p.x);"/>
+            <para/>
+            <ITEXT CH="float d = INF;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Petals"/>
+            <para/>
+            <ITEXT CH="for (int ri = 0; ri &lt; 15; ++ri) {"/>
+            <para/>
+            <ITEXT CH="  float RATIO = float(ri) / 15.;"/>
+            <para/>
+            <ITEXT CH="  float ANGLE = random(float(ri)) * TAU;"/>
+            <para/>
+            <ITEXT CH="  float SPANANGLE = 2.0 - RATIO * 1.;"/>
+            <para/>
+            <ITEXT CH="  float RADIUS = .1 + .6 * RATIO;"/>
+            <para/>
+            <ITEXT CH="  float HEIGHT = mix(.8, 1., sqrt(RATIO));"/>
+            <para/>
+            <ITEXT CH="  float OPENING = mix(-.1, .5, RATIO);"/>
+            <para/>
+            <ITEXT CH="  float a = amod(at - ANGLE, TAU);"/>
+            <para/>
+            <ITEXT CH="  float dr = min(d, (abs(a) - SPANANGLE) * l);"/>
+            <para/>
+            <ITEXT CH="  float r = atan(p.y * 5.) * 4. / TAU * RADIUS"/>
+            <para/>
+            <ITEXT CH="    + smoothstep(HEIGHT - .5, HEIGHT + .5, p.y)"/>
+            <para/>
+            <ITEXT CH="    * OPENING * RADIUS;"/>
+            <para/>
+            <ITEXT CH="  dr = max(dr, -length(p.xz) + r);"/>
+            <para/>
+            <ITEXT CH="  dr = max(dr, length(p.xz) - r - .02);"/>
+            <para/>
+            <ITEXT CH="  dr = max(dr, max(p.y - HEIGHT + pow(a, 2.) * .2, 0.));"/>
+            <para/>
+            <ITEXT CH="  d = min(d, dr);"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Leaves"/>
+            <para/>
+            <ITEXT CH="for (int li = 0; li &lt; 5; ++li) {"/>
+            <para/>
+            <ITEXT CH="  float RATIO = float(li) / 5.;"/>
+            <para/>
+            <ITEXT CH="  vec3 q = p;"/>
+            <para/>
+            <ITEXT CH="  q.x -  = pow(q.y + .2, 2.) * .2;"/>
+            <para/>
+            <ITEXT CH="  q.y += .4 + float(li) * .3 + random(float(li)) * .05;"/>
+            <para/>
+            <ITEXT CH="  q.yz *= rz2(-(p.y + .2) * .2);"/>
+            <para/>
+            <ITEXT CH="  q.xz *= rz2(fract(sin(float(li) * 13. + 45.)) * TAU);"/>
+            <para/>
+            <ITEXT CH="  d = smin(d, leaf(q, .5 + RATIO * .3), .08);"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <ITEXT CH="m = mmin(mleaves, M(d, GREEN));"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Jonathan Giroux - Koltes"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/Md2yDd"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="19" PTYPE="2" XPOS="94.3313385763779" YPOS="6367.08472442362" WIDTH="850.3937008" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536145952" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Theo/img0 (1).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="850.394 0 850.394 0 0 0 0 0 0 0 0 0 0 606.614 0 606.614 0 606.614 0 606.614 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 850.394 0 850.394 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.615 850.394 606.615 850.394 606.615 850.394 606.615 0 606.615 0 606.615 0 606.615 0 606.615 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="2" XPOS="94.3313385826771" YPOS="3190.70834645669" WIDTH="850.3937008" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536145952" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Victor/img0 (2).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.615 850.394 606.615 850.394 606.615 850.394 606.615 0 606.615 0 606.615 0 606.615 0 606.615 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="21" PTYPE="2" XPOS="94.3313385826771" YPOS="7002.36" WIDTH="425.196850393701" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536142361" LOCALSCY="0.242415536142361" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Helene/img0.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 606.614 425.197 606.614 425.197 606.614 425.197 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 606.614 425.197 606.614 425.197 606.614 425.197 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="21" PTYPE="2" XPOS="519.528188976378" YPOS="7002.36" WIDTH="425.1968504" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536145952" LOCALSCY="0.242415536145952" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Helene/img0 (1).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 606.614 425.197 606.614 425.197 606.614 425.197 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 425.197 0 425.197 0 425.197 0 425.197 0 425.197 606.614 425.197 606.614 425.197 606.614 425.197 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="115.943543319843" YPOS="3210.71685037614" WIDTH="401.887165335275" HEIGHT="582.991811" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 401.887 0 401.887 0 401.887 0 401.887 0 401.887 582.992 401.887 582.992 401.887 582.992 401.887 582.992 0 582.992 0 582.992 0 582.992 0 582.992 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 401.887 0 401.887 0 401.887 0 401.887 0 401.887 582.992 401.887 582.992 401.887 582.992 401.887 582.992 0 582.992 0 582.992 0 582.992 0 582.992 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="//Paris building"/>
+            <para/>
+            <ITEXT CH="vec3 b0 = pos1;"/>
+            <para/>
+            <ITEXT CH="b0.xy -= vec2(.22,.08);"/>
+            <para/>
+            <ITEXT CH="b0 = abs(b0);"/>
+            <para/>
+            <ITEXT CH="float XYsize =  max(0.,.5*pos.z-.02);"/>
+            <para/>
+            <ITEXT CH="float Zsize =  max(0.,.4*max(b0.x,b0.y)-.01);"/>
+            <para/>
+            <ITEXT CH="rayDist = min(rayDist,"/>
+            <para/>
+            <tab/>
+            <ITEXT CH="box(b0,vec3(0.,0.,0.),"/>
+            <para/>
+            <tab/>
+            <ITEXT CH="vec3(.05-XYsize,.05-XYsize,.06-Zsize)));"/>
+            <para/>
+            <ITEXT CH="rayDist = max(rayDist,"/>
+            <para/>
+            <tab/>
+            <ITEXT CH="-box(b0,vec3(0.,0.,.05),"/>
+            <para/>
+            <tab/>
+            <ITEXT CH="vec3(.02+XYsize,.02+XYsize,.05)));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="rayDist = min(rayDist,"/>
+            <tab/>
+            <ITEXT CH="box(b0,vec3(.02,.04,.046),"/>
+            <para/>
+            <tab/>
+            <ITEXT CH="vec3(.005,.009,.008)));"/>
+            <para/>
+            <ITEXT CH="rayDist = min(rayDist,box(b0,vec3(.04,.01,.05),"/>
+            <para/>
+            <tab/>
+            <ITEXT CH="vec3(.005,.001,.008)));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="b0.xy *= .56;"/>
+            <para/>
+            <ITEXT CH="b0 = abs(b0-.02);"/>
+            <para/>
+            <ITEXT CH="rayDist = max(rayDist,-box(b0,vec3(.01,.01,.01),"/>
+            <para/>
+            <tab/>
+            <ITEXT CH="vec3(.003,.003,.008)));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="//Garden trees"/>
+            <para/>
+            <ITEXT CH="float noise = 1.+.1*length(sin(pos*2000.0))+"/>
+            <para/>
+            <tab/>
+            <ITEXT CH=".2*length(sin(pos*900.0)); "/>
+            <para/>
+            <para/>
+            <ITEXT CH="b1.xy = abs(b1.xy);"/>
+            <para/>
+            <ITEXT CH="b1.xy -= .02;"/>
+            <para/>
+            <ITEXT CH="b1.xy = abs(b1.xy);"/>
+            <para/>
+            <ITEXT CH="b1 -= vec3(.01,.01,.02);"/>
+            <para/>
+            <ITEXT CH="b1*=noise;"/>
+            <para/>
+            <ITEXT CH="rayDist = min(rayDist, sphere(b1,vec3(0.),.008));"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Victor Beaupuy - Kushulain"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/tsjGRG"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="21" PTYPE="4" XPOS="111.94354331126" YPOS="7025.52527559103" WIDTH="808.1043307" HEIGHT="587.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 587.25 808.104 587.25 808.104 587.25 808.104 587.25 0 587.25 0 587.25 0 587.25 0 587.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 808.104 0 808.104 0 808.104 0 808.104 0 808.104 587.25 808.104 587.25 808.104 587.25 808.104 587.25 0 587.25 0 587.25 0 587.25 0 587.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="p = pos;"/>
+            <para/>
+            <ITEXT CH="p.y -= 0.2;"/>
+            <para/>
+            <ITEXT CH="float distPlant = 100.;"/>
+            <para/>
+            <ITEXT CH="float anim = 0.05 * (0.5 + 0.5 * sin(5. * iTime));"/>
+            <para/>
+            <ITEXT CH="float leafAngle = 1.2;"/>
+            <para/>
+            <ITEXT CH="float offset = 0.01;"/>
+            <para/>
+            <ITEXT CH="float size = 0.2;"/>
+            <para/>
+            <ITEXT CH="float leafRot = 2. * PI / PHI;"/>
+            <para/>
+            <ITEXT CH="float leafColor, lc, d;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="for(float i = 0.; i &lt; NB_LEAVES; i++) {"/>
+            <para/>
+            <ITEXT CH="  p.xz = rot(leafRot) * p.xz;"/>
+            <para/>
+            <ITEXT CH="  leafAngle *= 0.92;"/>
+            <para/>
+            <ITEXT CH="  size *= 1.04;"/>
+            <para/>
+            <ITEXT CH="  offset += 0.002;"/>
+            <para/>
+            <ITEXT CH="  d = distLeaf(p - vec3(offset, 0., 0.),  "/>
+            <para/>
+            <ITEXT CH="    leafAngle + anim, size, lc);"/>
+            <para/>
+            <ITEXT CH="  distPlant = min(distPlant, d); "/>
+            <para/>
+            <ITEXT CH="  if (d == distPlant) {"/>
+            <para/>
+            <ITEXT CH="    leafColor = lc;"/>
+            <para/>
+            <ITEXT CH="  }"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT CH="dist = min(dist, distPlant);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="if(dist == distPlant) {"/>
+            <para/>
+            <ITEXT CH="  object = 3;"/>
+            <para/>
+            <ITEXT CH="  colorVariation = 0.8 * smoothstep(0.75, 0., leafColor "/>
+            <para/>
+            <ITEXT CH="    + 0.4 * f) + 0.2 * sf;"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Hélène Legrand - lnae"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/4ltyD4"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="2" XPOS="94.3313385826771" YPOS="2555.43307086614" WIDTH="850.3937008" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536145952" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="1" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Clara/img0.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.615 850.394 606.615 850.394 606.615 850.394 606.615 0 606.615 0 606.615 0 606.615 0 606.615 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="116.27425198126" YPOS="2574.11086612417" WIDTH="679.5991339" HEIGHT="582.991811" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 679.599 0 679.599 0 679.599 0 679.599 0 679.599 582.992 679.599 582.992 679.599 582.992 679.599 582.992 0 582.992 0 582.992 0 582.992 0 582.992 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 679.599 0 679.599 0 679.599 0 679.599 0 679.599 582.992 679.599 582.992 679.599 582.992 679.599 582.992 0 582.992 0 582.992 0 582.992 0 582.992 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="void mainImage(out vec4 fragColor, in vec2 fragCoord) {"/>
+            <para/>
+            <ITEXT CH="  vec4 color = vec4(.0, .0, .0, .0);"/>
+            <para/>
+            <ITEXT CH="  vec2 pixel = fragCoord / iResolution.xy * 2.0 - 1.0;"/>
+            <para/>
+            <ITEXT CH="  float time = iTime;"/>
+            <para/>
+            <ITEXT CH="  float rido = sin(10. / pixel.x + cos(time)) * .5 + .5;"/>
+            <para/>
+            <ITEXT CH="  float hSol = 0.1;"/>
+            <para/>
+            <ITEXT CH="  float cx = 2. * pixel.x;"/>
+            <para/>
+            <ITEXT CH="  float cy = 2. * pixel.y + hSol;"/>
+            <para/>
+            <ITEXT CH="  "/>
+            <para/>
+            <ITEXT CH="  float maskSol = smoothstep(cx, cx+0.4, pixel.x*.3-cy)  "/>
+            <para/>
+            <ITEXT CH="    * smoothstep(-(cx+0.4), -cx, pixel.x * .3 - cy);"/>
+            <para/>
+            <ITEXT CH="  float y = 3. * log(abs(pixel.y));"/>
+            <para/>
+            <ITEXT CH="  float x = pixel.x * abs(y - 1.5) * 1.6;"/>
+            <para/>
+            <ITEXT CH=" "/>
+            <para/>
+            <ITEXT CH="  float h = 0.1;"/>
+            <para/>
+            <ITEXT CH="  float t = h*5.;"/>
+            <para/>
+            <ITEXT CH="  float m = 3.9;"/>
+            <para/>
+            <ITEXT CH="  float a = (m*h/t) * (1. - 2. * step(t/2., mod(x, t))); "/>
+            <para/>
+            <ITEXT CH="  float parquet = step(mod(y + a*x, m/10.), 0.2);"/>
+            <para/>
+            <ITEXT CH="  "/>
+            <para/>
+            <ITEXT CH="  float smoothCircle = 0.1*cos(iTime)"/>
+            <para/>
+            <ITEXT CH="    + smoothstep(1.5, .0, length(pixel));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="  fragColor = mix("/>
+            <para/>
+            <ITEXT CH="    vec4(1., 0., .2, 1.) * rido,"/>
+            <para/>
+            <ITEXT CH="    vec4(0.85, .77, .6, 1.) * parquet,"/>
+            <para/>
+            <ITEXT CH="    maskSol"/>
+            <para/>
+            <ITEXT CH="  ) * smoothCircle;"/>
+            <para/>
+            <ITEXT CH="}"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Black Logic by Logzeraw"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/MtBczD"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="19" PTYPE="4" XPOS="116.746062985827" YPOS="6387.08464566929" WIDTH="593.034094494488" HEIGHT="577.334645669292" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 593.034 0 593.034 0 593.034 0 593.034 0 593.034 577.335 593.034 577.335 593.034 577.335 593.034 577.335 0 577.335 0 577.335 0 577.335 0 577.335 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 593.034 0 593.034 0 593.034 0 593.034 0 593.034 577.335 593.034 577.335 593.034 577.335 593.034 577.335 0 577.335 0 577.335 0 577.335 0 577.335 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="apply_transform(p);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="p.xy *= r2d(3.14 / 2.);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="vec3 q = p;"/>
+            <para/>
+            <ITEXT CH="p.xy *= r2d(3.14 / 4.);"/>
+            <para/>
+            <ITEXT CH="float m = .25;"/>
+            <para/>
+            <ITEXT CH="p.z = mod(p.z - m * .5, m) - m * .5;"/>
+            <para/>
+            <ITEXT CH="p.xy += 4.5;"/>
+            <para/>
+            <ITEXT CH="float b1 = box(p, vec3(.02, 23.5, .1));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="p = q;"/>
+            <para/>
+            <ITEXT CH="p -= vec3(0, .3, .6);"/>
+            <para/>
+            <ITEXT CH="float sph1 = length(p) - .3;"/>
+            <para/>
+            <ITEXT CH="p -= vec3(-.1, .4, 1.5);"/>
+            <para/>
+            <ITEXT CH="float sph2 = length(p) - .05;"/>
+            <para/>
+            <para/>
+            <ITEXT CH="p = q;"/>
+            <para/>
+            <ITEXT CH="mo(p.xz, vec2(2.8));"/>
+            <para/>
+            <ITEXT CH="mo(p.xy, vec2(1.2));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="mo(p.xz, vec2(2.03, .3));"/>
+            <para/>
+            <ITEXT CH="p.xy *= r2d(3.14 / 2.2);"/>
+            <para/>
+            <para/>
+            <ITEXT CH="mo(p.xz, vec2(.5, .4));"/>
+            <para/>
+            <ITEXT CH="amod2(p.xz, 8.);"/>
+            <para/>
+            <ITEXT CH="float d = od(p, .7);"/>
+            <para/>
+            <ITEXT CH="d = cmin(d, sc(p, .03), .3);"/>
+            <para/>
+            <ITEXT CH="d = max(d, box(p, vec3(4)));"/>
+            <para/>
+            <para/>
+            <ITEXT CH="return min(min(min(d, sph2), sph1), b1);"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="// Théotime Calandra - lsdlive"/>
+            <para/>
+            <ITEXT CH="// https://www.shadertoy.com/view/tsfSWr"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="15" PTYPE="2" XPOS="94.3313385826771" YPOS="5096.53417322835" WIDTH="850.3937008" HEIGHT="606.6141732" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.242415536145952" LOCALSCY="0.244602489193548" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="Anatole/img0 (2).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 850.394 0 850.394 0 850.394 0 850.394 0 850.394 606.614 850.394 606.614 850.394 606.614 850.394 606.614 0 606.614 0 606.614 0 606.614 0 606.614 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="110.77818898126" YPOS="5114.77070866638" WIDTH="817.3025197" HEIGHT="582.4330709" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 817.303 0 817.303 0 817.303 0 817.303 0 817.303 582.433 817.303 582.433 817.303 582.433 817.303 582.433 0 582.433 0 582.433 0 582.433 0 582.433 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 817.303 0 817.303 0 817.303 0 817.303 0 817.303 582.433 817.303 582.433 817.303 582.433 817.303 582.433 0 582.433 0 582.433 0 582.433 0 582.433 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="13" CH="vec3 col;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="if(rock(p.xyz) &lt; p.y) { // Rock"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  col = mix(vec3(1.), vec3(.2, .3, .1) * .4,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    pow(clamp(nn.y * 1.1, 0., 1.), 4.));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  col = mix("/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    mix(vec3(.3, .2, .1), vec3(.3, .28, .22) * 1.9,"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="      clamp(p.z-70., 0., 1.)),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    col, clamp(p.y*.3, 0., 1.));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="} else { // Sand"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  col = vec3(.3, .28, .22) * 1.9 * (noise(p * 10.)"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="    * noise(p * vec3(.8, 0., 3.)) * .1 + .8);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="}"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float shad = ambientOcclusion(p, sunDir, vec2(7.,12.));"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float ao = ambientOcclusion(p, n, vec2(1.,1.5))"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  * ambientOcclusion(p, n, vec2(5., 8.));"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 amb = vec3(.9, .97, 1.) * ao;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 diff = vec3(1., .8, .5) * min(max(dot(n, sunDir),"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  0.) * max(dot(nn, sunDir) * 1.2, .1) * shad * 6., 1.);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 ind = vec3(1., .8, .5) * max(dot(n, sunDir"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  * vec3(-1., 0., -1.)), 0.);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="vec3 skylight = vec3(.9, .97, 1.)"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  * clamp(.5 + .5 * n.y, 0., 1.) * ao;"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="col *= amb * .3 + diff * .8 + ind * .1 + .2 * skylight;"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float a = clamp(-p.y*.4, 0., 1.);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float b = pow(clamp(2.5 - displacement(p *"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3(.5, 1., .3) * .05 + 1.) * 6. * a, .8, 1.), 4.);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="float c = pow(clamp(2.5 - displacement(p *"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="  vec3(.5, 1., .4) * .08 + 10.) * 5. * a, .8, 1.), 4.);"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="col = mix(col, vec3(.2, 1., .8) * .2 * (b - c + 1.), a);"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// Anat"/>
+            <para/>
+            <ITEXT FONTSIZE="13" CH="// https://www.shadertoy.com/view/Mst3Wr"/>
+            <para/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="145.889409448819" YPOS="1206.08464566929" WIDTH="327.75" HEIGHT="31.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTFEATURES="inherit" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="12" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Consolas Bold" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 327.75 0 327.75 0 327.75 0 327.75 0 327.75 31.5 327.75 31.5 327.75 31.5 327.75 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 327.75 0 327.75 0 327.75 0 327.75 0 327.75 31.5 327.75 31.5 327.75 31.5 327.75 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Consolas Bold" FONTSIZE="13" FEATURES="inherit" FCOLOR="Black" KERN="0" CH="&lt;&lt; ray marching in a signed distance field &gt;&gt;"/>
+            <trail ALIGN="1"/>
+            <Tabs Type="0" Pos="24" Fill=""/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="172.941889763779" YPOS="1020.41929133858" WIDTH="273.645039370079" HEIGHT="159.266692913386" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.110340741681483" LOCALSCY="0.110340741681483" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img0 (1).png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 273.645 0 273.645 0 273.645 0 273.645 0 273.645 159.267 273.645 159.267 273.645 159.267 273.645 159.267 0 159.267 0 159.267 0 159.267 0 159.267 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 273.645 0 273.645 0 273.645 0 273.645 0 273.645 159.267 273.645 159.267 273.645 159.267 273.645 159.267 0 159.267 0 159.267 0 159.267 0 159.267 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.4">
+    <DOCUMENT ANZPAGES="32" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" PRESET="2" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="279.432" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="1" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="code" FONT="Consolas Bold" FONTSIZE="10" FONTFEATURES="-clig,-liga" FCOLOR="White" BGCOLOR="Black" BASEO="0" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="128" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="31" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="655.276535433071" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="655.276535433071" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1290.55181102362" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="1290.55181102362" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="4" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1925.82708661417" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="5" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="1925.82708661417" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="6" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="7" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="8" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3196.37763779528" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="9" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="3196.37763779528" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="10" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3831.65291338583" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="11" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="3831.65291338583" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="12" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4466.92818897638" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="13" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="4466.92818897638" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="14" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5102.20346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="15" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="5102.20346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="16" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5737.47874015748" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="17" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="5737.47874015748" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="18" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6372.75401574803" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="19" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="6372.75401574803" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="20" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7008.02929133858" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="21" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="7008.02929133858" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="22" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7643.30456692914" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="23" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="7643.30456692914" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="24" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8278.57984251969" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="25" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="8278.57984251969" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="26" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8913.85511811024" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="27" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="8913.85511811024" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="28" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="9549.13039370079" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="29" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="9549.13039370079" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="30" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="10184.4056692913" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="42.5196850393701" BORDERRIGHT="42.5196850393701" BORDERTOP="42.5196850393701" BORDERBOTTOM="42.5196850393701" NUM="31" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="2" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1290.55181102362" OwnPage="3" ItemID="131915168" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="noise.png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="1290.55181102362" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="553.866141732283" YPOS="61.9540157480315" OwnPage="0" ItemID="42829760" PTYPE="4" WIDTH="354.5" HEIGHT="106.47905511811" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L354.5 0 L354.5 106.479 L0 106.479 L0 0 Z" copath="M0 0 L354.5 0 L354.5 106.479 L0 106.479 L0 0 Z" gXpos="553.866141732283" gYpos="61.9540157480315" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Source Sans Pro Black" FONTSIZE="100"/>
+                <ITEXT FONT="Source Sans Pro Black" FONTSIZE="100" CH="COOKIE"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="554.433070866142" YPOS="133.608188976378" OwnPage="0" ItemID="113199776" PTYPE="4" WIDTH="355" HEIGHT="89.7290551181102" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L355 0 L355 89.7291 L0 89.7291 L0 0 Z" copath="M0 0 L355 0 L355 89.7291 L0 89.7291 L0 0 Z" gXpos="554.433070866142" gYpos="133.608188976378" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Source Sans Pro Black" FONTSIZE="62"/>
+                <ITEXT FONT="Source Sans Pro Black" FONTSIZE="62" CH="COLLECTIVE"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="567.299212598425" YPOS="180.11811023622" OwnPage="0" ItemID="42801488" PTYPE="4" WIDTH="113.25" HEIGHT="15" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L113.25 0 L113.25 15 L0 15 L0 0 Z" copath="M0 0 L113.25 0 L113.25 15 L0 15 L0 0 Z" gXpos="567.299212598425" gYpos="180.11811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Source Sans Pro Black" FONTSIZE="15"/>
+                <ITEXT FONT="Source Sans Pro Black" FONTSIZE="15" CH="NUMBER 1"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="784.136456692914" YPOS="180.11811023622" OwnPage="0" ItemID="109940976" PTYPE="4" WIDTH="113.25" HEIGHT="15" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L113.25 0 L113.25 15 L0 15 L0 0 Z" copath="M0 0 L113.25 0 L113.25 15 L0 15 L0 0 Z" gXpos="784.136456692914" gYpos="180.11811023622" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2" FONT="Source Sans Pro Black" FONTSIZE="15"/>
+                <ITEXT FONT="Source Sans Pro Black" FONTSIZE="15" CH="FEBRUARY 2019"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="562.047874015748" YPOS="557.905511811024" OwnPage="0" ItemID="114343856" PTYPE="4" WIDTH="334.488188976378" HEIGHT="26.7571653543307" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 26.7572 L0 26.7572 L0 0 Z" copath="M0 0 L334.488 0 L334.488 26.7572 L0 26.7572 L0 0 Z" gXpos="562.047874015748" gYpos="557.905511811023" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Source Sans Pro Black" FONTSIZE="22"/>
+                <ITEXT FONT="Source Sans Pro Black" FONTSIZE="22" CH="COLLECTION OF SHADERS"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="584.047874015748" YPOS="200.358897637795" OwnPage="0" ItemID="140706336" PTYPE="2" WIDTH="334.488188976378" HEIGHT="335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.174031315804567" LOCALSCY="0.174031315804567" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="cover.png" IRENDER="0" EMBEDDED="0" path="M0 0 L334.488 0 L334.488 335 L0 335 L0 0 Z" copath="M0 0 L334.488 0 L334.488 335 L0 335 L0 0 Z" gXpos="584.047874015748" gYpos="200.358897637795" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="624.4" YPOS="734.4" OwnPage="2" ItemID="142469168" PTYPE="4" WIDTH="220.8" HEIGHT="436.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L220.8 0 L220.8 436.2 L0 436.2 L0 0 Z" copath="M0 0 L220.8 0 L220.8 436.2 L0 436.2 L0 0 Z" gXpos="624.4" gYpos="734.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="12"/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="12" CH="Shaders are like poetry."/>
+                <para/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="12" CH="It is a codified text that only makes sense when one knows the rules that govern it. As an alexandrine or a haiku, a shader is a composition of words arranged by technical and artistic constraints."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="12" CH="Shaders are like cooking."/>
+                <para/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="12" CH="The text is a recipe with instructions that blend variables and other ingredients. The shader is then baked in oven to satisfy the appetite of the graphic card."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="12" CH="This book presents visuals generated by shaders accompanied by an extract of their code. The two next double pages contain functions that are common bases for the following shaders, where the code focuses on the crunchy part."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="12" CH="The full text can be accessed through the link on ShaderToy.com at the bottom of the page. Watch out for uppercase and lowercase, it’s important!"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="12" CH="The Cookie Collective exists thanks to the demoscene community. This fanzine presents works from members of the collective."/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="655.276535433071" OwnPage="2" ItemID="140698608" PTYPE="2" WIDTH="419.527559055118" HEIGHT="435.973464566929" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.204847440944882" LOCALSCY="0.204847440944882" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="back.png" IRENDER="0" EMBEDDED="0" path="M0 0 L419.528 0 L419.528 435.973 L0 435.973 L0 0 Z" copath="M0 0 L419.528 0 L419.528 435.973 L0 435.973 L0 0 Z" gXpos="100.00062992126" gYpos="655.276535433071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="219" YPOS="1058" OwnPage="1" ItemID="141325264" PTYPE="2" WIDTH="195" HEIGHT="113.032440944882" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.0786290322580645" LOCALSCY="0.0786290322580645" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="img0 (2).png" IRENDER="0" EMBEDDED="0" path="M0 0 L195 0 L195 113.032 L0 113.032 L0 0 Z" copath="M0 0 L195 0 L195 113.032 L0 113.032 L0 0 Z" gXpos="219" gYpos="1058" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="1333.07149606299" OwnPage="3" ItemID="131940928" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="1333.07149606299" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="50544368" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float hash(float n) { return fract(sin(n) * 1e4); }"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float noise(vec3 x) {"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  const vec3 step = vec3(110, 241, 171);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 i = floor(x);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 f = fract(x);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float n = dot(i, step);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 u = f * f * (3.0 - 2.0 * f);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  return mix(mix(mix(hash(n + dot(step, vec3(0,0,0))),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                     hash(n + dot(step, vec3(1,0,0))),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                     u.x),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                 mix(hash(n + dot(step, vec3(0,1,0))),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                     hash(n + dot(step, vec3(1,1,0))),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                     u.x), u.y),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="             mix(mix(hash(n + dot(step, vec3(0,0,1))),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                     hash(n + dot(step, vec3(1,0,1))),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                     u.x),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                 mix(hash(n + dot(step, vec3(0,1,1))),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                     hash(n + dot(step, vec3(1,1,1))),"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                     u.x), u.y), u.z);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float fbm(vec3 p) {"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float amplitude = .5;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float result = 0.;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  for (float index = 0.; index &lt;= 4.0; ++index) {"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    result += noise(p / amplitude) * amplitude;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    amplitude /= 2.;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  }"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  return result;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="void mainImage(out vec4 fragColor, in vec2 fragCoord) {"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec2 uv = (fragCoord - .5*iResolution.xy)"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    / iResolution.y;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 seed = vec3(uv * 4.0, 0);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float salty = fbm(seed * 40.0);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float curry = fbm(seed + vec3(noise(seed * 2.)*.5));"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  fragColor = vec4(curry - salty * .1);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Noise Example using the work of Morgan McGuire"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/tdXXWn"/>
+                <para LINESPMode="2" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="1925.82708661417" OwnPage="5" ItemID="219334528" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="ray.png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="1925.82708661417" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="1968.34677165354" OwnPage="5" ItemID="112506016" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="1968.34677165354" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float map(vec3 pos) {"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float cell = 3.;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  pos = mod(pos, cell) - cell * .5;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  return length(pos) - 1.;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 getNormal (vec3 pos) {"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec2 e = vec2(1.0, -1.0) * 0.5773 * 0.0005;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  return normalize(e.xyy * map(pos + e.xyy) +"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                   e.yyx * map(pos + e.yyx) +"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                   e.yxy * map(pos + e.yxy) +"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="                   e.xxx * map(pos + e.xxx));"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="void mainImage(out vec4 fragColor, in vec2 fragCoord) {"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec2 uv = (fragCoord - .5*iResolution.xy)"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    / iResolution.y;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 eye = vec3(0, 0, -2);"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 ray = normalize(vec3(uv, 1.));"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float shade = 0.;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  for (float index = 100.; index &gt; 0.; --index) {"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    float dist = map(eye);"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    if (dist &lt; 0.001) {"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="      shade = index / 100.;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="      break;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    }"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    eye += ray * dist;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  }"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 normal = getNormal(eye) * .5 + .5;"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  fragColor = vec4(normal * shade, 1);"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Raymarching Example using the work of Inigo Quilez"/>
+                <para LINESPMode="2"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/tsXXWn"/>
+                <trail LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="2561.10236220472" OwnPage="7" ItemID="122055344" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Anton/img0.png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="2561.10236220472" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="2603.6220472441" OwnPage="7" ItemID="43266192" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="2603.62204724409" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 cp = p;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float dist = 1000.;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float time = TIME * .25;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p *= .36;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.zx *= rot(-time * .25);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xz *= rot(p.z*1.1);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="for (float it = 0.; it &lt; 2.; it += 1.) {"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  p.xz *= rot(sin(p.y + time + fract(sin(it * 2369.)))"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    * PI / (it + 1.) * .5);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  p.zy *= rot(time+PI);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 ap = max(vec3(0.), abs(p)) - 1.;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float cu = length(ap) - .5"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    + min(max(ap.x, max(ap.y, ap.z)), 0.);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  dist = smin(dist, cu , .25);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p = cp;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xz *= rot(-time * .5);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float rad = 5.;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float wi = .5;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float sph = length(p) - rad + wi /2.;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="dist = -smin(sph, -dist, .15);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="sph = length(p) - rad - wi /2.;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="dist = -smin(-sph, -dist, .15);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="sph = distance(cp, vec3(0., 0., -5.)) - 2.;"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="dist = -smin(sph, -dist, .3);"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="return dist"/>
+                <ITEXT CH=";"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Anton Roy - antonOTI"/>
+                <para LINESPMode="2" LINESP="10"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/WsfXDr"/>
+                <para LINESPMode="2" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="3196.37763779528" OwnPage="9" ItemID="144461856" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Clara/img0.png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="3196.37763779527" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="3238.89732283465" OwnPage="9" ItemID="50550288" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="3238.89732283464" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="void mainImage(out vec4 fragColor, in vec2 fragCoord) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec4 color = vec4(.0, .0, .0, .0);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec2 pixel = fragCoord / iResolution.xy * 2.0 - 1.0;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float time = iTime;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float rido = sin(10./pixel.x + cos(time)) * .5 + .5;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float hSol = 0.1;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float cx = 2. * pixel.x;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float cy = 2. * pixel.y + hSol;"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float maskSol = smoothstep(cx,cx+0.4,pixel.x*.3-cy)  "/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    * smoothstep(-(cx+0.4), -cx, pixel.x * .3 - cy);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float y = 3. * log(abs(pixel.y));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float x = pixel.x * abs(y - 1.5) * 1.6;"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float h = 0.1;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float t = h*5.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float m = 3.9;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float a = (m*h/t) * (1. - 2. * step(t/2., mod(x, t)));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float parquet = step(mod(y + a*x, m/10.), 0.2);"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float smoothCircle = 0.1*cos(iTime)"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    + smoothstep(1.5, .0, length(pixel));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  fragColor = mix("/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    vec4(1., 0., .2, 1.) * rido,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    vec4(0.85, .77, .6, 1.) * parquet,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    maskSol"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  ) * smoothCircle;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Black Logic by Logzeraw"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/MtBczD"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="562.047874015748" YPOS="1333.07149606299" OwnPage="4" ItemID="50544368" PTYPE="4" WIDTH="334.488188976378" HEIGHT="520.928503937008" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 520.929 L0 520.929 L0 0 Z" copath="M0 0 L334.488 0 L334.488 520.929 L0 520.929 L0 0 Z" gXpos="562.047874015748" gYpos="1333.07149606299" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="131940928"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="3831.65291338583" OwnPage="11" ItemID="121094160" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Victor/img0 (2).png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="3831.65291338582" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="3874.1725984252" OwnPage="11" ItemID="50573968" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="3874.17259842519" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Paris building"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 b1 = pos;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b1.xy -= 0.22;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b1 = abs(b1);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rayDist = min(rayDist,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  box(b1, vec3(0., 0., 0.), vec3(.05, .05, .05)));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rayDist = max(rayDist,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  -box(b1, vec3(0., 0., .05), vec3(.02, .02, .05)));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 biz1 = b1;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="biz1 -= vec3(.04, .05, .062);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="biz1.yz *= rz2(2.5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rayDist = max(rayDist,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  -box(biz1, vec3(0.), vec3(.02, .02, .02)));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 biz2 = b1;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="biz2 -= vec3(.05, .025, .062);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="biz2.xz *= rz2(2.5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rayDist = max(rayDist,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  -box(biz2, vec3(0.), vec3(.02, .022, .02)));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="//Garden trees"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float treeSize = 1. + .1 * length(sin(pos * 1000.))"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  + .5 * length(sin(pos * 100.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b0.xy = abs(b0.xy);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b0.xy -= 0.02;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b0.xy = abs(b0.xy);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b0 -= vec3(.01, .01, .02);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rayDist = min(rayDist,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  box(b0, vec3(0., 0., -.01), vec3(.001, .001, .005)));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b0 *= treeSize;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b0.xz *= rz2(2.5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rayDist = min(rayDist, sphere(b0, vec3(0.), .008));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Victor Beaupuy - Kushulain"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/wsXSDn"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="4466.92818897638" OwnPage="13" ItemID="141321904" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Antoine/img0 (2).png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="4466.92818897637" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="4509.44787401575" OwnPage="13" ItemID="50553248" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="4509.44787401574" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float rep = 10.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.y -= max(0., abs(p.x) - 10.) * .3;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.x = (fract(p.x / rep - .5) - .5) * rep;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p += tunnel(p);"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 rp = p;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float boxrep = 10.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rp.z = (fract(rp.z / boxrep - .5) - .5) * boxrep;"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 rp2 = p;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float boxrep2 = 1.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rp2.x=abs(rp2.x) - .4;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rp2.z = (fract(rp2.z / boxrep2 - .5) - .5) * boxrep2;"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float b = box(rp + vec3(0, -9, 0), vec3(.6, 10.5, .6));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 rp3 = rp + vec3(0, 1.5, 0);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rp3.xy *= rot(PI * .3);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rp3.yz *= rot(PI * .3);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float b2 = box(rp3, vec3(0.7));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b2 = max(b2, p.y + 1.5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b = min(b, b2);  "/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float st = stair(p, .1, .4);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float st2 = stair(p + vec3(0, .7, 0), .6, .4);"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="b = max(b, -st2);"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float c = box(rp2 + vec3(0, .3, 0), vec3(.05, .3, .2));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="rp2.y = abs(rp2.y + .43) - .1;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="c = min(c, box(rp2, vec3(.03, .03, 1.)));  "/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="return min(c, min(b, st));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Antoine Zanuttini - NuSan"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/3sBGzV"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="5102.20346456693" OwnPage="15" ItemID="121334448" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Ben/img0.png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="5102.20346456692" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="5144.7231496063" OwnPage="15" ItemID="50556208" PTYPE="4" WIDTH="337.322834645669" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L337.323 0 L337.323 510.236 L0 510.236 L0 0 Z" copath="M0 0 L337.323 0 L337.323 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="5144.72314960629" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// One morning we woke up when the sky was still dark."/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// We walked half an hour through the forest,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// to reach the other side of the island,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// where the beach is facing the rising sun."/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// The sun was already there, one half over the horizon"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// The sky was on fire."/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// We swum in the sea, staring at the rising sun."/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float l = dot(n, normalize(vec3(uv.x,-.2, uv.y + .5)));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="l = clamp(l, 0., 1.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 cloudColor = mix(baseSkyColor, darkColor,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  length(uvInit) * 1.7);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="cloudColor = mix(cloudColor, sunColor, l);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 skyColor = mix(lightColor, baseSkyColor,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  clamp(uvInit.y * 2., 0., 1.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="skyColor = mix(skyColor, darkColor,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  clamp(uvInit.y * 3. - .8, 0., 1.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="skyColor = mix(skyColor, sunColor,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  clamp(-uvInit.y * 10. + 1.1, 0., 1.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="if(length(uvInit-vec2(0.,.04)) &lt; .03) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="   skyColor += vec3(2.,1.,.8); }"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float cloudMix = clouds * 4. - 8.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 color = mix(cloudColor, skyColor,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  clamp(cloudMix, 0.,1.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="uvInit.y = abs(uvInit.y);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float islandHeight = texture(iChannel1, uvInit.xx / 2."/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  + .67).r / 15. - uvInit.y + .978;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="islandHeight += texture(iChannel1, uvInit.xx*2.).r/60.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="islandHeight = clamp(floor(islandHeight),0.,1.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 landColor = mix(baseSkyColor, darkColor,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  length(uvInit) * 1.5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="color = mix(color, landColor, islandHeight);"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Benjamin Vedrenne - GLKT"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/4d2BRz"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="5737.47874015748" OwnPage="17" ItemID="120214656" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="evvvvil0 (3).png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="5737.47874015747" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="5779.99842519685" OwnPage="17" ItemID="50559168" PTYPE="4" WIDTH="357.165354330709" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L357.165 0 L357.165 510.236 L0 510.236 L0 0 Z" copath="M0 0 L357.165 0 L357.165 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="5779.99842519684" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec2 fb( vec3 p )"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec2 h,t=vec2(bo(abs(p)-vec3(2,0,0),vec3(0.3,0.3,10)),5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  h=vec2(1000,3);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  for(int i=0;i&lt;6;i++) "/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    h.x=min(h.x,bo(abs(p)-vec3(0,0,0.5*float(i)),"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="      vec3(2,0.1,0.1)));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    h.x = min(h.x,bo(abs(p)-vec3(2,0,0.5*float(i)),"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="      vec3(0.2,0.5,0.2)));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  t.x=min(t.x,0.8*(length(p-vec3(0,0,6))-1.7));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  t=(t.x&lt;h.x)?t:h;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  t.x*=0.5;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  return t;"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec2 mp( vec3 p )"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  p.xy*=r2(sin(p.z*.2)*.5+tt*.5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  np=p;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  att=length(p-vec3(0,0,sin(tt*2.)*20.))-5.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  np.z=mod(p.z+tt*10.,15.)-7.5;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  for(int i=0;i&lt;3;i++)"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    np=abs(np)-vec3(0.2,0.2+att*0.2,0);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    np.xy*=r2((cos(np.z*.2*float(i))));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec2 h,t=fb(np);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  pp=abs(p)-vec3(3.2,1.+sin(p.z*0.2),0)-att*0.2;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  pp.z=mod(pp.z-tt*10.,4.)-2.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  h=vec2(bo(pp,vec3(0.2+att*0.03)),6);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  h.x=max(-(length(pp)-(0.3+att*0.03)),h.x);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  h.x*=0.7;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  t=(t.x&lt;h.x)?t:h;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  h=vec2(bo(pp,vec3(0.1+att*0.01,0.1+att*0.01,30)),5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  h.x*=0.8;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  t=(t.x&lt;h.x)?t:h;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  return t;"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Mangosh Prunier - evvvvil"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/3s23Dc"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="6372.75401574803" OwnPage="19" ItemID="122486144" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Anatole/img0 (2).png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="6372.75401574802" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="6415.2737007874" OwnPage="19" ItemID="50562128" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="6415.27370078739" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 col;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="if(rock(p.xyz) &lt; p.y) { // Rock"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col = mix(vec3(1.), vec3(.2, .3, .1) * .4,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    pow(clamp(nn.y * 1.1, 0., 1.), 4.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col = mix("/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    mix(vec3(.3, .2, .1), vec3(.3, .28, .22) * 1.9,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="      clamp(p.z-70., 0., 1.)),"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    col, clamp(p.y*.3, 0., 1.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="} else { // Sand"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col = vec3(.3, .28, .22) * 1.9 * (noise(p * 10.)"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    * noise(p * vec3(.8, 0., 3.)) * .1 + .8);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float shad = ambientOcclusion(p, sunDir, vec2(7.,12.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float ao = ambientOcclusion(p, n, vec2(1.,1.5))"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  * ambientOcclusion(p, n, vec2(5., 8.));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 amb = vec3(.9, .97, 1.) * ao;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 diff = vec3(1., .8, .5) * min(max(dot(n, sunDir),"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  0.) * max(dot(nn, sunDir)*1.2, .1) * shad * 6., 1.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 ind = vec3(1., .8, .5) * max(dot(n, sunDir"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  * vec3(-1., 0., -1.)), 0.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 skylight = vec3(.9, .97, 1.)"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  * clamp(.5 + .5 * n.y, 0., 1.) * ao;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="col *= amb * .3 + diff * .8 + ind * .1 + .2 * skylight;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float a = clamp(-p.y*.4, 0., 1.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float b = pow(clamp(2.5 - displacement(p *"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3(.5, 1., .3) * .05 + 1.) * 6. * a, .8, 1.), 4.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float c = pow(clamp(2.5 - displacement(p *"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3(.5, 1., .4) * .08 + 10.) * 5. * a, .8, 1.), 4.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="col = mix(col, vec3(.2,1.,.8) * .2 * (b - c + 1.), a);"/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Anat"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/Mst3Wr"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="7008.02929133858" OwnPage="21" ItemID="103776288" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="leon.png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="7008.02929133857" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="7050.54897637795" OwnPage="21" ItemID="50565088" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="7050.54897637794" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float chilly = noise(pos * 2.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float salty = fbm(pos * 20.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="pos.z -= salty * .04;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="salty = smoothstep(.3, 1., salty);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="pos.z += salty * .04;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="pos.xy -= (chilly * 2. - 1.) * .2;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 p = pos;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec2 cell = vec2(1., .5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec2 id = floor(p.xz / cell);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xy *= rot(id.y * .5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.y += sin(p.x + .5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xz = repeat(p.xz, cell);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 pp = p;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="moda(p.yz, 5.0);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.y -= .1;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float scene = length(p.yz) - .02;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 ppp = pos;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="pp.xz *= rot(pp.y * 5.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="ppp = repeat(ppp, .1);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="moda(pp.xz, 3.0);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="pp.x -= .04 + .02 * sin(pp.y * 5.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="scene = smoothmin(length(pp.xz) - .01, scene, .2);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p = pos;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xy *= rot(-p.z);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="moda(p.xy, 8.0);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.x -= .7;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xy *= rot(p.z * 8.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xy = abs(p.xy) - .02;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="return smoothmin(scene, length(p.xy) - .005, .2);"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Leon Denise - ponk"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/wdXSWn"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="7643.30456692914" OwnPage="23" ItemID="219515744" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Theo/img0 (1).png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="7643.30456692912" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="7685.8242519685" OwnPage="23" ItemID="50568048" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="7685.82425196849" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="apply_transform(p);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xy *= r2d(3.14 / 2.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 q = p;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xy *= r2d(3.14 / 4.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float m = .25;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.z = mod(p.z - m * .5, m) - m * .5;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xy += 4.5;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float b1 = box(p, vec3(.02, 23.5, .1));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p = q;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p -= vec3(0, .3, .6);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float sph1 = length(p) - .3;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p -= vec3(-.1, .4, 1.5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float sph2 = length(p) - .05;"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p = q;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="mo(p.xz, vec2(2.8));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="mo(p.xy, vec2(1.2));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="mo(p.xz, vec2(2.03, .3));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.xy *= r2d(3.14 / 2.2);"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="mo(p.xz, vec2(.5, .4));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="amod2(p.xz, 8.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float d = od(p, .7);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="d = cmin(d, sc(p, .03), .3);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="d = max(d, box(p, vec3(4)));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="return min(min(min(d, sph2), sph1), b1);"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Théotime Calandra - lsdlive"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/tsfSWr"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="8278.57984251969" OwnPage="25" ItemID="222444368" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Helene/helene.png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="8278.57984251967" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="8321.09952755906" OwnPage="25" ItemID="146939120" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="8321.09952755904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p = pos;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="p.y -= 0.2;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float distPlant = 100.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float anim = 0.05 * (0.5 + 0.5 * sin(5. * iTime));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float leafAngle = 1.2;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float offset = 0.01;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float size = 0.2;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float leafRot = 2. * PI / PHI;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float leafColor, lc, d;"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="for(float i = 0.; i &lt; NB_LEAVES; i++) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  p.xz = rot(leafRot) * p.xz;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  leafAngle *= 0.92;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  size *= 1.04;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  offset += 0.002;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  d = distLeaf(p - vec3(offset, 0., 0.),  "/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    leafAngle + anim, size, lc);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  distPlant = min(distPlant, d);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  if (d == distPlant) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    leafColor = lc;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  }"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="dist = min(dist, distPlant);"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="if(dist == distPlant) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  object = 3;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  colorVariation = 0.8 * smoothstep(0.75, 0., leafColor"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    + 0.4 * f) + 0.2 * sf;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Hélène Legrand - lnae"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/4ltyD4"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="8913.85511811024" OwnPage="27" ItemID="222648624" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Florine/img0.png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="8913.85511811022" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="8956.37480314961" OwnPage="27" ItemID="146945040" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="8956.37480314959" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 n = get_norm(p);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float fre = pow(clamp(1. - dot(n, -rd), 0., 1.), 3.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 keypos = vec3(-8., 10., -10.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 rimpos = vec3(5., -2., 5.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 specpos = vec3(-3.,6., -3.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 global_lighting = mix(vec3(.2, .1,0.),"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3(.8, .8, .5), dirlight(n, keypos));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="vec3 rim_lighting = vec3(.1, .5, .8)"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  * dirlight(n, rimpos);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="if (mat == 0) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 albedo = vec3(rand(t_id + 2.), 1.,"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    rand(t_id + 4.)) * 0.5;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col = albedo;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col += global_lighting + rim_lighting;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col += spec_light(rd, n, specpos, 2.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col /= 3.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="} else if (mat == 1) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 albedo = vec3(.8, .8, 1.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col = albedo;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col += global_lighting + rim_lighting;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col /= 2.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col += fre;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="} else if (mat == 2) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 albedo = vec3(.8, .7, 0.);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col = albedo;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col += global_lighting + rim_lighting;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col += spec_light(rd, n, keypos, 16.)"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    * vec3(1., .6, .5);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col /= 3.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col += fre;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="} else if (mat == 3) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  col = global_lighting;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Flopine"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/wslXR7"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="9549.13039370079" OwnPage="29" ItemID="121683408" PTYPE="2" WIDTH="841.889763779528" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.239991380780937" LOCALSCY="0.239991380780937" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Jo/img0 (1).png" IRENDER="0" EMBEDDED="0" path="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" copath="M0 0 L841.89 0 L841.89 595.276 L0 595.276 L0 0 Z" gXpos="100.00062992126" gYpos="9549.13039370077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="9591.65007874016" OwnPage="29" ItemID="146930240" PTYPE="4" WIDTH="334.488188976378" HEIGHT="510.236220472441" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" copath="M0 0 L334.488 0 L334.488 510.236 L0 510.236 L0 0 Z" gXpos="142.52031496063" gYpos="9591.65007874014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="2" LINESP="10" CPARENT="code" FONTSIZE="11" KERN="0"/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float l = length(p.xz);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float at = atan(p.z, p.x);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="float d = INF;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Petals"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="for (int ri = 0; ri &lt; 15; ++ri) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float RATIO = float(ri) / 15.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float ANGLE = random(float(ri)) * TAU;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float SPANANGLE = 2.0 - RATIO * 1.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float RADIUS = .1 + .6 * RATIO;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float HEIGHT = mix(.8, 1., sqrt(RATIO));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float OPENING = mix(-.1, .5, RATIO);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float a = amod(at - ANGLE, TAU);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float dr = min(d, (abs(a) - SPANANGLE) * l);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float r = atan(p.y * 5.) * 4. / TAU * RADIUS"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    + smoothstep(HEIGHT - .5, HEIGHT + .5, p.y)"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="    * OPENING * RADIUS;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  dr = max(dr, -length(p.xz) + r);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  dr = max(dr, length(p.xz) - r - .02);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  dr = max(dr, max(p.y - HEIGHT + pow(a, 2.)*.2, 0.));"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  d = min(d, dr);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Leaves"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="for (int li = 0; li &lt; 5; ++li) {"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  float RATIO = float(li) / 5.;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  vec3 q = p;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  q.x -  = pow(q.y + .2, 2.) * .2;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  q.y += .4 + float(li) * .3 + random(float(li)) * .05;"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  q.yz *= rz2(-(p.y + .2) * .2);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  q.xz *= rz2(fract(sin(float(li) * 13. + 45.)) * TAU);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="  d = smin(d, leaf(q, .5 + RATIO * .3), .08);"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="}"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="m = mmin(mleaves, M(d, GREEN));"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// Jonathan Giroux - Koltes"/>
+                <para/>
+                <ITEXT CPARENT="code" FONTSIZE="11" KERN="0" CH="// https://www.shadertoy.com/view/Md2yDd"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="211.75" YPOS="10273" OwnPage="31" ItemID="121672080" PTYPE="2" WIDTH="209.234881889764" HEIGHT="213" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.204330939345473" LOCALSCY="0.204330939345473" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="back0.png" IRENDER="0" EMBEDDED="0" path="M0 0 L209.235 0 L209.235 213 L0 213 L0 0 Z" copath="M0 0 L209.235 0 L209.235 213 L0 213 L0 0 Z" gXpos="211.75" gYpos="10273" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="10514.9253543307" OwnPage="31" ItemID="146950960" PTYPE="4" WIDTH="334.488188976378" HEIGHT="204.094488188975" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 204.094 L0 204.094 L0 0 Z" copath="M0 0 L334.488 0 L334.488 204.094 L0 204.094 L0 0 Z" gXpos="142.52031496063" gYpos="10514.9253543307" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="GaramondNo8 Regular" FONTSIZE="13"/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="13" CH="Cookie Collective gathers digital artists involved in real-time creation. This covers video games, art installations, video mapping, demoscene, live coding, etc."/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="13" CH="We organize the Cookie Demoparty, a digital art festival which brings together various communities and features demos, experimental video games, machinimas, and concerts."/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <para ALIGN="1" LINESPMode="2"/>
+                <ITEXT FONT="GaramondNo8 Regular" FONTSIZE="13" CH="And regular live coding parties, in which artists train and create visuals and sounds in front of the audience."/>
+                <para ALIGN="1" LINESPMode="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.52031496063" YPOS="10697.4765354331" OwnPage="31" ItemID="146924320" PTYPE="4" WIDTH="334.488188976378" HEIGHT="39.6850393700788" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.488 0 L334.488 39.685 L0 39.685 L0 0 Z" copath="M0 0 L334.488 0 L334.488 39.685 L0 39.685 L0 0 Z" gXpos="142.52031496063" gYpos="10697.4765354331" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="Source Sans Pro Black" FONTSIZE="19"/>
+                <ITEXT FONT="Source Sans Pro Black" FONTSIZE="19" CH="www.cookie.paris"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

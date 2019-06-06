@@ -1,0 +1,42 @@
+float hash(float n) { return fract(sin(n) * 1e4); }
+float noise(vec3 x) {
+  const vec3 step = vec3(110, 241, 171);
+  vec3 i = floor(x);
+  vec3 f = fract(x);
+  float n = dot(i, step);
+  vec3 u = f * f * (3.0 - 2.0 * f);
+  return mix(mix(mix(hash(n + dot(step, vec3(0,0,0))),
+                     hash(n + dot(step, vec3(1,0,0))),
+                     u.x),
+                 mix(hash(n + dot(step, vec3(0,1,0))),
+                     hash(n + dot(step, vec3(1,1,0))),
+                     u.x), u.y),
+             mix(mix(hash(n + dot(step, vec3(0,0,1))),
+                     hash(n + dot(step, vec3(1,0,1))),
+                     u.x),
+                 mix(hash(n + dot(step, vec3(0,1,1))),
+                     hash(n + dot(step, vec3(1,1,1))),
+                     u.x), u.y), u.z);
+}
+
+float fbm(vec3 p) {
+  float amplitude = .5;
+  float result = 0.;
+  for (float index = 0.; index <= 4.0; ++index) {
+    result += noise(p / amplitude) * amplitude;
+    amplitude /= 2.;
+  }
+  return result;
+}
+
+void mainImage(out vec4 fragColor, in vec2 fragCoord) {
+  vec2 uv = (fragCoord - .5*iResolution.xy)
+    / iResolution.y;
+  vec3 seed = vec3(uv * 4.0, 0);
+  float salty = fbm(seed * 40.0);
+  float curry = fbm(seed + vec3(noise(seed * 2.) * .5));
+  fragColor = vec4(curry - salty * .1);
+}
+
+// Noise Example using the work of Morgan McGuire
+// https://www.shadertoy.com/view/tdXXWn

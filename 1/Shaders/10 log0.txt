@@ -1,0 +1,32 @@
+void mainImage(out vec4 fragColor, in vec2 fragCoord) {
+  vec4 color = vec4(.0, .0, .0, .0);
+  vec2 pixel = fragCoord / iResolution.xy * 2.0 - 1.0;
+  float time = iTime;
+  float rido = sin(10. / pixel.x + cos(time)) * .5 + .5;
+  float hSol = 0.1;
+  float cx = 2. * pixel.x;
+  float cy = 2. * pixel.y + hSol;
+  
+  float maskSol = smoothstep(cx, cx+0.4, pixel.x*.3-cy)  
+    * smoothstep(-(cx+0.4), -cx, pixel.x * .3 - cy);
+  float y = 3. * log(abs(pixel.y));
+  float x = pixel.x * abs(y - 1.5) * 1.6;
+ 
+  float h = 0.1;
+  float t = h*5.;
+  float m = 3.9;
+  float a = (m*h/t) * (1. - 2. * step(t/2., mod(x, t))); 
+  float parquet = step(mod(y + a*x, m/10.), 0.2);
+  
+  float smoothCircle = 0.1*cos(iTime)
+    + smoothstep(1.5, .0, length(pixel));
+
+  fragColor = mix(
+    vec4(1., 0., .2, 1.) * rido,
+    vec4(0.85, .77, .6, 1.) * parquet,
+    maskSol
+  ) * smoothCircle;
+}
+
+// Black Logic by Logzeraw
+// https://www.shadertoy.com/view/MtBczD

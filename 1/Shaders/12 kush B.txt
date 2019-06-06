@@ -1,0 +1,38 @@
+// Paris building
+vec3 b1 = pos;
+b1.xy -= 0.22;
+b1 = abs(b1);
+rayDist = min(rayDist,
+  box(b1, vec3(0., 0., 0.), vec3(.05, .05, .05)));
+rayDist = max(rayDist,
+  -box(b1, vec3(0., 0., .05), vec3(.02, .02, .05)));
+
+vec3 biz1 = b1;
+biz1 -= vec3(.04, .05, .062);
+biz1.yz *= rz2(2.5);
+rayDist = max(rayDist,
+  -box(biz1, vec3(0.), vec3(.02, .02, .02)));
+
+vec3 biz2 = b1;
+biz2 -= vec3(.05, .025, .062);
+biz2.xz *= rz2(2.5);
+rayDist = max(rayDist,
+  -box(biz2, vec3(0.), vec3(.02, .022, .02)));
+
+//Garden trees
+float treeSize = 1. + .1 * length(sin(pos * 1000.))
+  + .5 * length(sin(pos * 100.)); 
+
+b0.xy = abs(b0.xy);
+b0.xy -= 0.02;
+b0.xy = abs(b0.xy);
+b0 -= vec3(.01, .01, .02);
+rayDist = min(rayDist,
+  box(b0, vec3(0., 0., -.01), vec3(.001, .001, .005)));
+b0 *= treeSize;
+b0.xz *= rz2(2.5);
+rayDist = min(rayDist,
+  sphere(b0, vec3(0.), .008));
+
+// Kushulain
+// https://www.shadertoy.com/view/wsXSDn

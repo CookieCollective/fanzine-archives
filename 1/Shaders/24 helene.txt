@@ -1,0 +1,33 @@
+p = pos;
+p.y -= 0.2;
+float distPlant = 100.;
+float anim = 0.05 * (0.5 + 0.5 * sin(5. * iTime));
+float leafAngle = 1.2;
+float offset = 0.01;
+float size = 0.2;
+float leafRot = 2. * PI / PHI;
+float leafColor, lc, d;
+
+for(float i = 0.; i < NB_LEAVES; i++) {
+  p.xz = rot(leafRot) * p.xz;
+  leafAngle *= 0.92;
+  size *= 1.04;
+  offset += 0.002;
+  d = distLeaf(p - vec3(offset, 0., 0.),  
+    leafAngle + anim, size, lc);
+  distPlant = min(distPlant, d); 
+  if (d == distPlant) {
+    leafColor = lc;
+  }
+}
+
+dist = min(dist, distPlant);
+
+if(dist == distPlant) {
+  object = 3;
+  colorVariation = 0.8 * smoothstep(0.75, 0., leafColor 
+    + 0.4 * f) + 0.2 * sf;
+}
+
+// Helene Legrand - lnae
+// https://www.shadertoy.com/view/4ltyD4

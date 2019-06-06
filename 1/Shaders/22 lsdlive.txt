@@ -1,0 +1,34 @@
+apply_transform(p);
+
+p.xy *= r2d(3.14 / 2.);
+
+vec3 q = p;
+p.xy *= r2d(3.14 / 4.);
+float m = .25;
+p.z = mod(p.z - m * .5, m) - m * .5;
+p.xy += 4.5;
+float b1 = box(p, vec3(.02, 23.5, .1));
+
+p = q;
+p -= vec3(0, .3, .6);
+float sph1 = length(p) - .3;
+p -= vec3(-.1, .4, 1.5);
+float sph2 = length(p) - .05;
+
+p = q;
+mo(p.xz, vec2(2.8));
+mo(p.xy, vec2(1.2));
+
+mo(p.xz, vec2(2.03, .3));
+p.xy *= r2d(3.14 / 2.2);
+
+mo(p.xz, vec2(.5, .4));
+amod2(p.xz, 8.);
+float d = od(p, .7);
+d = cmin(d, sc(p, .03), .3);
+d = max(d, box(p, vec3(4)));
+
+return min(min(min(d, sph2), sph1), b1);
+
+// Theotime - lsdlive
+// https://www.shadertoy.com/view/tsfSWr

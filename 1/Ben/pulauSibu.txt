@@ -1,0 +1,35 @@
+// Man has demonstrated that he is master of everything except his own nature
+
+// One morning we woke up when the sky was still dark.
+// We walked half an hour through the forest,
+// to reach the other side of the island,
+// where the beach is facing the rising sun.
+// The sun was already there, one half over the horizon.
+// The sky was on fire.
+// We swum in the sea, staring at the rising sun.
+
+float l = dot(n, normalize(vec3(uv.x,-.2,uv.y+.5)));
+l = clamp(l,0.,1.);
+
+vec3 cloudColor = mix(baseSkyColor, darkColor, length(uvInit)*1.7);
+cloudColor = mix( cloudColor,sunColor, l );
+
+vec3 skyColor = mix(lightColor , baseSkyColor, clamp(uvInit.y*2.,0.,1.) );
+skyColor = mix ( skyColor, darkColor, clamp(uvInit.y*3.-.8,0.,1.) );
+skyColor = mix ( skyColor, sunColor, clamp(-uvInit.y*10.+1.1,0.,1.) );
+
+if(length(uvInit-vec2(0.,.04) )<.03){
+ 	skyColor += vec3(2.,1.,.8);
+}
+   
+float cloudMix = clamp(0.,1.,clouds*4.-8.);
+vec3 color = mix( cloudColor, skyColor, clamp(cloudMix,0.,1.) );
+
+uvInit.y = abs(uvInit.y);
+float islandHeight = texture(iChannel1, uvInit.xx/2.+.67).r/15. - uvInit.y + .978;
+islandHeight += texture(iChannel1, uvInit.xx*2.).r/60.;
+islandHeight = clamp(floor(islandHeight),0.,1.);    
+vec3 landColor = mix(baseSkyColor, darkColor, length(uvInit)*1.5);
+color = mix(color, landColor, islandHeight);
+    
+https://www.shadertoy.com/view/4d2BRz

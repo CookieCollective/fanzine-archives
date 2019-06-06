@@ -1,0 +1,34 @@
+vec3 cp = p;
+float dist = 1000.;
+float time = TIME * .25;
+p *= .36;
+p.zx *= rot(-time * .25);
+p.xz *= rot(p.z*1.1);
+
+for (float it = 0.; it < 2.; it += 1.) {
+  p.xz *= rot(sin(p.y + time + fract(sin(it * 2369.)))
+    * PI / (it + 1.) * .5);
+  p.zy *= rot(time+PI);
+  vec3 ap = max(vec3(0.), abs(p)) - 1.;
+  float cu = length(ap) - .5
+    + min(max(ap.x, max(ap.y, ap.z)), 0.);
+  dist = smin(dist, cu , .25);
+}
+
+p = cp;
+p.xz *= rot(-time * .5);
+
+float rad = 5.;
+float wi = .5;
+float sph = length(p) - rad + wi /2.;
+
+dist = -smin(sph, -dist, .15);
+sph = length(p) - rad - wi /2.;
+dist = -smin(-sph, -dist, .15);
+sph = distance(cp, vec3(0., 0., -5.)) - 2.;
+dist = -smin(sph, -dist, .3);
+
+return dist;
+
+// Anton Roy - antonOTI
+// https://www.shadertoy.com/view/WsfXDr

@@ -1,0 +1,32 @@
+vec3 p = vec3(0,0,-3.) + ray * t;        
+
+p = rotateY(p, iMouse.x/iResolution.x * 2.* 3.14);  
+p = rotateY(p,iTime/3.);
+
+float mask = max(0.,(1.-length(p/3.)));
+p = rotateY(p,mask*sin(iTime/2.)*1.2);        
+p.y += sin(iTime+p.x)*mask*.5;
+p *= 1.1+(sin(iTime/2.)*mask*.3);
+
+float d =  map(p);   
+
+if (d<0.01 || r == rayCount)
+{                 
+    float iter = float(r) / float(rayCount);
+    float ao = (1.-iter);
+    ao*=ao;
+    ao = 1.-ao;
+                
+    float mask = max(0.,(1.-length(p/2.)));            
+    mask *= abs(sin(iTime*-1.5+length(p)+p.x)-.2);            
+    color += 2.*vec3(.1,1.,.8) * max(0.,(noise(p)*4.-2.6)) * mask;            
+    color += vec3(.1,.5,.6) * ao * 6.;            
+    color += vec3(.27,.2,.4)*(t/8.);
+               
+    color *= 2.;
+    color -= .15;
+                
+    break;          
+}
+
+https://www.shadertoy.com/view/4tcXRr

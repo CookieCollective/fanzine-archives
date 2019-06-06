@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.4">
+    <DOCUMENT ANZPAGES="48" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="279.432" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="BSOD 1" SPACE="RGB" R="0" G="65" B="255"/>
+        <COLOR NAME="BSOD 10" SPACE="RGB" R="0" G="120" B="215"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Gray" SPACE="CMYK" C="0" M="0" Y="0" K="25.8823529411765"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="13" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" CPARENT="Default Character Style"/>
+        <STYLE NAME="Text" CPARENT="Text Black"/>
+        <STYLE NAME="Code" PARENT="Text" LINESPMode="0" LINESP="10" FONT="Consolas Regular" FONTFEATURES="-clig,-liga" FCOLOR="White"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Georgia Regular" FONTSIZE="10" FONTFEATURES="-clig,-liga" FEATURES="" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Name" CPARENT="Default Character Style" FONTSIZE="14"/>
+        <CHARSTYLE CNAME="Title" FONT="Kanit ExtraBold Regular" FONTSIZE="1" FONTFEATURES="-clig" FEATURES="" FCOLOR="Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Title Cookie" CPARENT="Title" FONTSIZE="93"/>
+        <CHARSTYLE CNAME="Title Collective" CPARENT="Title" FONTSIZE="58"/>
+        <CHARSTYLE CNAME="Fanzine Title" FONT="Kanit ExtraBold Regular" FONTSIZE="27" FONTFEATURES="-clig" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Text Black" FONT="Georgia Regular" FONTSIZE="11" FONTFEATURES="-clig,-liga" FEATURES="" FCOLOR="Black" FSHADE="100" SCOLOR="White" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Title Text" FONT="Rubik Bold" FONTSIZE="14" FONTFEATURES="-clig" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Text White" CPARENT="Text Black" FONT="Georgia Regular" FCOLOR="White" SCOLOR="Black"/>
+        <CHARSTYLE CNAME="Text White Shadow" CPARENT="Text White" FEATURES="shadowed" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1"/>
+        <CHARSTYLE CNAME="Author White" CPARENT="Text White" FONT="IBM Plex Mono Bold" FONTSIZE="11"/>
+        <CHARSTYLE CNAME="Author White Shadow" CPARENT="Text White Shadow" FONTSIZE="14"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="1" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="1" PDLanguage="1" markLength="2.12199579145934e-314" markOffset="2.12199579145934e-314" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Georgia Regular"/>
+            <Fonts Name="Roboto Mono Bold"/>
+            <Subset Name="Consolas Regular"/>
+            <Subset Name="IBM Plex Mono Bold"/>
+            <Subset Name="IBM Plex Mono Medium"/>
+            <Subset Name="IBM Plex Mono Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="47" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="29.4718 224.614 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="655.276535433071" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="655.276535433071" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1290.55181102362" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="64.9994 " HorizontalGuides="66.1982 487.559 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="1290.55181102362" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="4" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="39.9718 " HorizontalGuides="539.448 66.9482 487.559 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1925.82708661417" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="5" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="1925.82708661417" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="6" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="7" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="74.7494 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="8" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3196.37763779528" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="9" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="3196.37763779528" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="10" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3831.65291338583" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="11" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="3831.65291338583" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="12" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4466.92818897638" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="13" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="4466.92818897638" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="14" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5102.20346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="15" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="5102.20346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="16" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5737.47874015748" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="17" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="5737.47874015748" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="18" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6372.75401574803" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="19" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="6372.75401574803" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="20" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7008.02929133858" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="21" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="7008.02929133858" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="22" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="7643.30456692913" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="23" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="7643.30456692913" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="24" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8278.57984251968" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="25" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="8278.57984251968" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="26" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="8913.85511811024" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="27" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="8913.85511811024" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="28" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="9549.13039370079" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="29" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="40.9994 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="9549.13039370079" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="30" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="10184.4056692913" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="31" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="38.9994 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="10184.4056692913" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="32" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="10819.6809448819" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="33" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="10819.6809448819" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="34" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="11454.9562204724" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="35" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="11454.9562204724" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="36" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="12090.231496063" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="37" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="12090.231496063" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="38" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="12725.5067716535" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="39" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="447.493 447.874 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="12725.5067716535" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="40" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="448.243 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="13360.7820472441" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="41" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="13360.7820472441" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="42" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="13996.0573228346" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="43" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="13996.0573228346" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="44" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="14631.3325984252" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="45" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="14631.3325984252" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="46" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="15266.6078740157" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="0" BORDERRIGHT="18.1417322834646" BORDERTOP="14.1732283464567" BORDERBOTTOM="14.1732283464567" NUM="47" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="100.00062992126" YPOS="15266.6078740157" OwnPage="47" ItemID="232623472" PTYPE="2" WIDTH="420.833370743138" HEIGHT="595.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.169690875299652" LOCALSCY="0.169690875299652" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Citadel_PointClouds_Pixsortx2b.png" IRENDER="0" EMBEDDED="0" path="M0 0 L420.833 0 L420.833 595.276 L0 595.276 L0 0 Z" copath="M0 0 L420.833 0 L420.833 595.276 L0 595.276 L0 0 Z" ImageRes="0" gXpos="100.00062992126" gYpos="15266.6078740157" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="519.528188976378" YPOS="20.0012598425197" OwnPage="0" ItemID="232614976" PTYPE="2" WIDTH="419.527559055118" HEIGHT="595.74874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.169164338328677" LOCALSCY="0.169164338328677" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../2/images/Citadel_PointClouds_Pixsortx2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L419.528 0 L419.528 595.749 L0 595.749 L0 0 Z" copath="M0 0 L419.528 0 L419.528 595.749 L0 595.749 L0 0 Z" gXpos="519.528188976378" gYpos="20.0012598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="231.940078740157" YPOS="15523.770472441" OwnPage="47" ItemID="232609312" PTYPE="2" WIDTH="155.648661417324" HEIGHT="80.9503937007644" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.391077038736995" LOCALSCY="0.391077038736995" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/modal.png" IRENDER="0" EMBEDDED="0" path="M0 0 L155.649 0 L155.649 80.9504 L0 80.9504 L0 0 Z" copath="M0 0 L155.649 0 L155.649 80.9504 L0 80.9504 L0 0 Z" ImageRes="0" gXpos="66.1048031496062" gYpos="169.464409448856" gWidth="306" gHeight="432.577401574803" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="295.162099737532" YPOS="15442.3559055118" OwnPage="47" ItemID="232600816" PTYPE="6" WIDTH="15" HEIGHT="5.81076115486394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" path="M0 0 L15 0 L15 5.81076 L0 5.81076 L0 0 Z" copath="M0 0 L15 0 L15 5.81076 L0 5.81076 L0 0 Z" gXpos="129.326824146981" gYpos="88.0498425196893" gWidth="306" gHeight="432.577401574803" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="8291.85543307087" OwnPage="25" ItemID="232617808" PTYPE="2" WIDTH="804" HEIGHT="567.826771653544" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229190421892816" LOCALSCY="0.228962407924816" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="images/clara.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="8291.85543307087" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="7021.30488188977" OwnPage="21" ItemID="232620640" PTYPE="2" WIDTH="804" HEIGHT="567.826771653544" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228962407924816" LOCALSCY="0.228962407924816" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/kaspar3.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="7021.30488188976" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="2575.20472440945" OwnPage="7" ItemID="232606480" PTYPE="2" WIDTH="802.771653543307" HEIGHT="567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228629032258065" LOCALSCY="0.228629032258065" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/kaspar2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L802.772 0 L802.772 567 L0 567 L0 0 Z" copath="M0 0 L802.772 0 L802.772 567 L0 567 L0 0 Z" gXpos="118.142362204725" gYpos="2575.20472440945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="1304.72503937008" OwnPage="3" ItemID="232626304" PTYPE="6" WIDTH="401.385826771654" HEIGHT="566.929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="BSOD 10" PLINEART="1" path="M0 0 L401.386 0 L401.386 566.929 L0 566.929 L0 0 Z" copath="M0 0 L401.386 0 L401.386 566.929 L0 566.929 L0 0 Z" gXpos="118.142362204725" gYpos="1304.72503937008" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="1938.9294488189" OwnPage="5" ItemID="232629136" PTYPE="2" WIDTH="802.771653543307" HEIGHT="568" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228840266118389" LOCALSCY="0.228840266118389" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/kaspar1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L802.772 0 L802.772 568 L0 568 L0 0 Z" copath="M0 0 L802.772 0 L802.772 568 L0 568 L0 0 Z" gXpos="118.142362204725" gYpos="1938.9294488189" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="103.008503937007" YPOS="1333.07149606299" OwnPage="3" ItemID="232603648" PTYPE="2" WIDTH="605.777777777778" HEIGHT="340.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.504814814814815" LOCALSCY="0.504814814814815" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/1200px-Bsodwindows10.png" IRENDER="0" EMBEDDED="0" path="M0 0 L605.778 0 L605.778 340.75 L0 340.75 L0 0 Z" copath="M0 0 L605.778 0 L605.778 340.75 L0 340.75 L0 0 Z" gXpos="103.008503937007" gYpos="1333.07149606299" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="519.528188976378" YPOS="1304.72503937008" OwnPage="4" ItemID="232631968" PTYPE="6" WIDTH="401.385826771654" HEIGHT="566.929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="BSOD 1" PLINEART="1" path="M0 0 L401.386 0 L401.386 566.929 L0 566.929 L0 0 Z" copath="M0 0 L401.386 0 L401.386 566.929 L0 566.929 L0 0 Z" gXpos="519.528188976378" gYpos="1304.72503937008" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="116.914015748032" YPOS="668.378897637796" OwnPage="1" ItemID="232660288" PTYPE="2" WIDTH="804" HEIGHT="568" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229032258064516" LOCALSCY="0.229032258064516" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/bg2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 568 L0 568 L0 0 Z" copath="M0 0 L804 0 L804 568 L0 568 L0 0 Z" gXpos="116.914015748032" gYpos="668.378897637796" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="213.784881889764" YPOS="898.414330708662" OwnPage="1" ItemID="232640464" PTYPE="12" WIDTH="212" HEIGHT="109" FRTYPE="0" CLIPEDIT="0" ANNAME="Group1" groupWidth="212" groupHeight="109" groupClips="1" path="M0 0 L212 0 L212 109 L0 109 L0 0 Z" copath="M0 0 L212 0 L212 109 L0 109 L0 0 Z" gXpos="213.784881889764" gYpos="898.414330708662" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="213.784881889764" YPOS="898.414330708662" OwnPage="1" ItemID="232654624" PTYPE="6" WIDTH="212" HEIGHT="109" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" path="M0 0 L212 0 L212 109 L0 109 L0 0 Z" copath="M0 0 L212 0 L212 109 L0 109 L0 0 Z" gXpos="0" gYpos="0" gWidth="212" gHeight="109" LAYER="0"/>
+            <PAGEOBJECT XPOS="235.784881889764" YPOS="922.414330708662" OwnPage="1" ItemID="238774864" PTYPE="4" WIDTH="168" HEIGHT="61" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L168 0 L168 61 L0 61 L0 0 Z" copath="M0 0 L168 0 L168 61 L0 61 L0 0 Z" gXpos="22" gYpos="24" gWidth="212" gHeight="109" PSTYLE="Text" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle PARENT="Text" ALIGN="1" CPARENT="Text Black"/>
+                    <ITEXT CPARENT="Text Black" CH="Errors are everywhere."/>
+                    <para PARENT="Text" ALIGN="1"/>
+                    <ITEXT CPARENT="Text Black" CH="Cheese is an oversight."/>
+                    <para PARENT="Text" ALIGN="1"/>
+                    <ITEXT CPARENT="Text Black" CH="Alcohol is a mistake."/>
+                    <para PARENT="Text" ALIGN="1"/>
+                    <ITEXT CPARENT="Text Black" CH="Life on earth was not planned."/>
+                    <trail PARENT="Text" ALIGN="1"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="560.212598425197" YPOS="833.659601377953" OwnPage="2" ItemID="232634800" PTYPE="6" WIDTH="318.117795275591" HEIGHT="238.509458661417" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" path="M0 0 L318.118 0 L318.118 238.509 L0 238.509 L0 0 Z" copath="M0 0 L318.118 0 L318.118 238.509 L0 238.509 L0 0 Z" gXpos="0" gYpos="0" gWidth="318.117795275591" gHeight="238.509458661417" LAYER="0"/>
+        <PAGEOBJECT XPOS="586.917480314961" YPOS="854.698503937008" OwnPage="2" ItemID="238783744" PTYPE="4" WIDTH="264.708031496063" HEIGHT="196.431653543307" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L264.708 0 L264.708 196.432 L0 196.432 L0 0 Z" copath="M0 0 L264.708 0 L264.708 196.432 L0 196.432 L0 0 Z" gXpos="26.704881889764" gYpos="21.0389025590551" gWidth="318.117795275591" gHeight="238.509458661417" PSTYLE="Text" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" ALIGN="0" CPARENT="Text Black"/>
+                <ITEXT CPARENT="Text Black" FONTSIZE="11" CH="Glitches and bugs are inescapable actors of the digital activity. Although avoided by most programmers, unexpected results may be a delight to the artist's eyes. To the point that video compression artefacts are reproduced through sophisticated filters."/>
+                <para PARENT="Text" ALIGN="0"/>
+                <para ALIGN="0"/>
+                <ITEXT CPARENT="Text Black" FONTSIZE="11" CH="Inaccurate raymarching algorithms create colorful, dynamique sceneries. Error messages from compilers sound like post-punk album titles. Unintended results lead to unseen connections."/>
+                <para ALIGN="0"/>
+                <para ALIGN="0"/>
+                <ITEXT CPARENT="Text Black" FONTSIZE="11" CH="This fanzine puts the spotlight on creative errors."/>
+                <para ALIGN="0"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="Author White" FONTSIZE="11" FCOLOR="Black" CH="Jonathan Giroux &amp; Léon Denise"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="167.834645669291" YPOS="1610.39173228346" OwnPage="3" ItemID="238786704" PTYPE="4" WIDTH="326.221811023622" HEIGHT="167.58070866142" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L326.222 0 L326.222 167.581 L0 167.581 L0 0 Z" copath="M0 0 L326.222 0 L326.222 167.581 L0 167.581 L0 0 Z" gXpos="167.834645669291" gYpos="1610.39173228346" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" MinGlyphShrink="1" CPARENT="Text White" FONT="Georgia Regular"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="[...] The Windows 10 BSOD is highly user friendly, we can see a small emoji which is not very happy and the interface that mutedly shows us that &quot;Your PC ran into a problem and needs to restart. We’re just collecting some error info, and then, we’ll restart for you&quot;. A little percentage informs us about the data recovery progression, and if we want to gather more informations about what is happening with our computer, we can flash the QR CODE."/>
+                <para MinGlyphShrink="1"/>
+                <para MinGlyphShrink="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="Everything seems to be fine, aside from a little hint down the screen which may upset us regarding to the nature of the breakdown:"/>
+                <para MinGlyphShrink="1"/>
+                <para MinGlyphShrink="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="« If you call a support person, give them this info: CRITICAL_PROCESS_DIED »"/>
+                <para MinGlyphShrink="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="557.827401574803" YPOS="1356.06362204724" OwnPage="4" ItemID="232663120" PTYPE="2" WIDTH="361.333333333333" HEIGHT="271" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.352864583333333" LOCALSCY="0.352864583333333" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/ms_bsod_2.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L361.333 0 L361.333 271 L0 271 L0 0 Z" copath="M0 0 L361.333 0 L361.333 271 L0 271 L0 0 Z" gXpos="557.827401574803" gYpos="1356.06362204724" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="559.582677165355" YPOS="1529.76181102362" OwnPage="4" ItemID="238789664" PTYPE="4" WIDTH="337.5" HEIGHT="255.98818897638" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L337.5 0 L337.5 255.988 L0 255.988 L0 0 Z" copath="M0 0 L337.5 0 L337.5 255.988 L0 255.988 L0 0 Z" gXpos="559.582677165355" gYpos="1529.76181102362" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" CPARENT="Text White" FONT="Georgia Regular"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="By now, if we compare the first BSOD to that of WINDOWS 10, we find ourself facing a mix of alphanumeric characters and non-alphabetical ones, I would even say cabalistic ones, without any reason of crash nor explanation, which is pretty frightening."/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="Thus, we have gone from a highly troublesome blue code we do not understand - the raw error displayed by the WINDOWS 1.0 BSOD -, to something extremely smooth, ergonomic, that clearly points out not to worry about the matter we are confronted with, the latter simply being ''repackaged'' from the first  BSOD to the current one."/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="Furthermore, the Blue Screen of Death name was assigned by the very first users confronted to the crash, that is not a formal designation."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="In a few decades, blue hues that are yet colorimetrically pretty close, distribute two contrasted messages. [...]"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Author White" CH="Marie Mollins"/>
+                <para PARENT="Text" LINESP="15"/>
+                <ITEXT CPARENT="Author White" CH="mariemolins.com"/>
+                <para PARENT="Text" LINESP="15"/>
+                <ITEXT CPARENT="Author White" FONTSIZE="10" CH="Extracts from the talk: neutral blue to: corrupted blue"/>
+                <para PARENT="Text" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="164.228307086614" YPOS="1356.06362204724" OwnPage="3" ItemID="238765984" PTYPE="4" WIDTH="326.221811023622" HEIGHT="17.5931496062981" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L326.222 0 L326.222 17.5931 L0 17.5931 L0 0 Z" copath="M0 0 L326.222 0 L326.222 17.5931 L0 17.5931 L0 0 Z" gXpos="164.228307086614" gYpos="1356.06362204724" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="Why the Blue Screen Of Death is blue?"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="606.541968503937" YPOS="1997.54771653543" OwnPage="6" ItemID="238763024" PTYPE="4" WIDTH="245.5" HEIGHT="463.172913385827" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L245.5 0 L245.5 463.173 L0 463.173 L0 0 Z" copath="M0 0 L245.5 0 L245.5 463.173 L0 463.173 L0 0 Z" gXpos="606.541968503937" gYpos="1997.54771653543" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" CPARENT="Text White Shadow" FEATURES="inherit"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="While we worry about compression algorithms decimating the quality of our profile pictures, the data collection business has reached a peak to the point of becoming a threat to the planet’s climate as well as being a direct violation of human rights and ethics."/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="As citizens of the internet, we often struggle to find a balance between consciously participating in harmful economies or fighting them upright. but ironically, the constant flow of information &amp;&amp; techno-capitalism products are a never ending resource/inspiration to glitches."/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="Being a glitch artist, I assess the inherent politics of any kind of medium by bringing it into states of hypertrophy. because only when a system is obviously unstable, may we all understand that is it not immuable. thus should we ask ourselves, do we have control over technology if we are breaking it ?"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="The cloud factory tells the story of an imaginary recycling facility in charge of processing broken files. both the artist and the machine take a playful approach by making glitch art, but it soon gets out of hand when the data stream becomes too much to handle, ultimately, resulting in a system-wide crash [spoilers]."/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <para LINESPMode="1"/>
+                <ITEXT CPARENT="Author White" FONTSIZE="11" CH="Kaspar Ravel"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <ITEXT CPARENT="Author White" FONTSIZE="11" CH="kaspar.wtf/project/thecloudfactory"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <ITEXT CPARENT="Author White" FONTSIZE="11" CH="Photo by Dina Karadžić"/>
+                <para LINESPMode="0" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2611.66633858268" OwnPage="7" ItemID="238795584" PTYPE="4" WIDTH="339.527559055118" HEIGHT="494.147637795273" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 494.148 L0 494.148 L0 0 Z" copath="M0 0 L339.528 0 L339.528 494.148 L0 494.148 L0 0 Z" gXpos="140.00062992126" gYpos="2611.66633858268" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Code" FONT="Roboto Mono Bold" FONTSIZE="9" FEATURES="inherit" FCOLOR="White"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="with open(filein,'rb') as rd:"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="print &quot;Opening File\n&quot;"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="filesize = os.path.getsize(filein)"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="chunk = 1024"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="lim = args.lim"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="idx = ''"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="with open(fileout,'wb') as wr:"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="print &quot;Streaming File\n&quot;"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="for pos in xrange(filesize-chunk, "/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="filesize-filesize/lim, -chunk):"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="rd.seek(pos)"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="buffer = rd.read(chunk)"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="if buffer.find(b'idx1') &gt;= 0:"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="split = buffer.split(b'idx1', 1)"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="rd.seek(0)"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="wr.write(rd.read(pos))"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="wr.write(split[0])"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="rd.seek(len(split[0])+4,1)"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="idx = rd.read()"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="break"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="if len(idx) == 0:"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="print('Could not locate index!\n')"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="raise SystemExit # quit"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="print &quot;Getting list of Tomatoes\n&quot;"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="idx, index_length = idx[4:], idx[:4]"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="n = 16"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="first_frame, idx = idx[:n], idx[n:]"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="check = bytearray()"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="check.extend(first_frame)"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="regex = re.compile(b'.*wb.*')"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="ignored_bytes = (int(ignoredframes) - 1) * n"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="ignored_idx = idx[:ignored_bytes]"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="idx = idx[ignored_bytes:]"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="if glitchedframes != 0 :"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="end_bytes = int(glitchedframes) * n"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="end_idx = idx[end_bytes:]"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="idx = idx[:end_bytes]"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="else :"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="end_idx = &quot;&quot;"/>
+                <para PARENT="Code"/>
+                <tab FONT="Consolas Regular" FONTSIZE="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="11" CH="idx = [idx[i:i+n] for i in range(0, len(idx), n) if not re.match(regex,idx[i:i+n])]"/>
+                <para PARENT="Code"/>
+                <para LINESPMode="0"/>
+                <para LINESPMode="0"/>
+                <para LINESPMode="0"/>
+                <tab CPARENT="Author White"/>
+                <ITEXT CPARENT="Author White" CH="Kaspar Ravel"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <tab CPARENT="Author White"/>
+                <ITEXT CPARENT="Author White" CH="Audio Video Interleave index breaker"/>
+                <para LINESPMode="0" LINESP="15"/>
+                <tab CPARENT="Author White"/>
+                <ITEXT CPARENT="Author White" FONTSIZE="10" CH="github.com/itskaspar/tomato/blob/master/"/>
+                <ITEXT CPARENT="Author White" CH="tomato.py"/>
+                <para LINESPMode="0" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="161.236850393701" YPOS="7061.31460629921" OwnPage="21" ItemID="238768944" PTYPE="4" WIDTH="309.928503937008" HEIGHT="488.70496062992" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L309.929 0 L309.929 488.705 L0 488.705 L0 0 Z" copath="M0 0 L309.929 0 L309.929 488.705 L0 488.705 L0 0 Z" gXpos="161.236850393701" gYpos="7061.31460629921" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" LINESP="13" CPARENT="Text White Shadow" FEATURES="inherit"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="From broken technology to affective artifacts, Impression Numérique is an extension to the impressionist art movement of the 19th century."/>
+                <para LINESP="13"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="The works in this series aim to challenge our perspective on glitches &amp;&amp; all that is considered as faults in today’s new media standards."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="The development of an impressionist glitch art form is a reaction to the constant development of “newer” and “better” technologies."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="We often think of digital art as being cold and rarely affective, but we never give it the opportunity to express itself for what it is. We spend our time contributing to commercially pushed HD standards, hiding flaws, rejecting low quality, and upscaling our media using tools that are inherent to these systems."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="Using random popular culture movies as a source, I disrupt compression algorithms and corrupt their video files to create stills where the pixels are set free. While colors and motion take liberated paths, the spectator is left with the image of what happens when binary data becomes a malleable entity with its own means of expression."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="Here, the focus was set on the fleeting visuals produced by broken files desperately trying to be displayed correctly in VLC. The resulting images were then reinterpreted and rescaled through deep learning, thus creating imaginary details."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="Being ultimately dependent on system flaws, these artworks do not only exist in the glitch momentum, but are also active participants in [ today's fight against hard cut technologies] &amp;&amp; net existentialist's theory - that digital art cannot live on without digital error."/>
+                <para LINESP="13"/>
+                <para LINESP="13"/>
+                <ITEXT CPARENT="Author White" FEATURES="inherit" CH="Kaspar Ravel"/>
+                <para LINESP="15"/>
+                <ITEXT CPARENT="Author White" FEATURES="inherit" CH="kaspar.wtf/project/impressionsnumeriques"/>
+                <trail LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120.04157480315" YPOS="3210.65322834646" OwnPage="9" ItemID="232657456" PTYPE="2" WIDTH="802" HEIGHT="566.826771653544" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228559182118365" LOCALSCY="0.228559182118365" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Sonia.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L802 0 L802 566.827 L0 566.827 L0 0 Z" copath="M0 0 L802 0 L802 566.827 L0 566.827 L0 0 Z" gXpos="120.04157480315" gYpos="3210.65322834645" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="3845.75527559055" OwnPage="11" ItemID="232643296" PTYPE="2" WIDTH="802.771653543307" HEIGHT="567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228629032258065" LOCALSCY="0.228629032258065" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/ben-4.png" IRENDER="0" EMBEDDED="0" path="M0 0 L802.772 0 L802.772 567 L0 567 L0 0 Z" copath="M0 0 L802.772 0 L802.772 567 L0 567 L0 0 Z" ImageRes="0" gXpos="118.142362204725" gYpos="3845.75527559054" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="149.071496062992" YPOS="3873.24216535433" OwnPage="11" ItemID="238801504" PTYPE="4" WIDTH="299.928503937008" HEIGHT="512.09708661417" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L299.929 0 L299.929 512.097 L0 512.097 L0 0 Z" copath="M0 0 L299.929 0 L299.929 512.097 L0 512.097 L0 0 Z" gXpos="149.071496062992" gYpos="2602.69161417323" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" LINESP="12" CPARENT="Text White Shadow"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="BUFFER CLEARING"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="CameraClearFlags.Nothing"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="Other Versions - Leave feedback"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="Description :"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="Don't clear anything."/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="This will leave colors and depth buffer from the previous frame or whatever was displayed before."/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="See Also: Camera.clearFlags property, camera component."/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="Did you find this page useful? Please give it a rating:"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="*****"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="Report a problem on this page"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="---------------------------------------"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="Question from armoredpokey · 03/10/12 at 16:18 · camerabackgroundstandalone:"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="Screen background not clearing in standalone/web player build."/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="I have a camera object whose position changes based on player input. In the Unity editor, this works great - there is a small screen that moves around on a black background and generally looks awesome."/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="The only problem is when I export to web player or standalone, for some reason the background doesn't clear after my camera's position changes. Instead I get a smear of camera scene that follows my screen."/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" CH="Any ideas as to how to fix this? Ideally I'd like to just set some flag that causes the background to clear to black and then have my new camera scene rendered on top of it, every frame. Would adding another camera layered underneath it work, and if so, what's the best way to get it to render black?"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CPARENT="Author White" CH="Benjamin Vedrenne"/>
+                <para LINESPMode="0" LINESP="16"/>
+                <ITEXT CPARENT="Author White" CH="glkitty.com"/>
+                <trail LINESPMode="0" LINESP="16"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="4481.0305511811" OwnPage="13" ItemID="232646128" PTYPE="2" WIDTH="802.771653543307" HEIGHT="567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228629032258065" LOCALSCY="0.228629032258065" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/3508x2480_2019-03-25_22-27-47.png" IRENDER="0" EMBEDDED="0" path="M0 0 L802.772 0 L802.772 567 L0 567 L0 0 Z" copath="M0 0 L802.772 0 L802.772 567 L0 567 L0 0 Z" ImageRes="0" gXpos="118.142362204725" gYpos="4481.03055118109" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="196.803149606299" YPOS="4499.97248031496" OwnPage="13" ItemID="238810384" PTYPE="4" WIDTH="242" HEIGHT="521.25" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L242 0 L242 521.25 L0 521.25 L0 0 Z" copath="M0 0 L242 0 L242 521.25 L0 521.25 L0 0 Z" gXpos="196.803149606299" gYpos="3229.42192913384" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" FONT="Georgia Regular"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="This image is produced by a filter inspired by datamoshing. An activity that consists into modifying compressed datas."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="A digital video holds a complete list of colours every seconds. Between those keyframes there is relative images."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="Lists of pixels that are not colours, but ponderation vectors, describing how to update colour relative to previous images."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="When we modify the sequence of key frames and relative images, the video player improvise and produce an intriguing image. Beyond the aesthetic, what pleases is also that form reveals function. The way the compression algorithm is thought generate different graphic styles."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="Thus we can imagine an artistic way of compressing datas to produce willingly a particular visual effect."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="The background image is the result of an interpretation of data compression. Each pixel is updated if the distance between his colour and video's pixel colour is superior to a certain threshold."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="The pixel is translated from his own colour. The gray value of a colour can transform into an angle, and then into a direction. The pixel drifts as it changes colour. As a painting, pixels flow along the screen."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Author White" CH="Léon Denise"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Author White" FONTSIZE="10" CH="github.com/leon196/OpticalFlowExample"/>
+                <para PARENT="Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="5116.37669291339" OwnPage="15" ItemID="232648960" PTYPE="2" WIDTH="802.771653543307" HEIGHT="567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228629032258065" LOCALSCY="0.228629032258065" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/3508x2480_2019-03-25_23-26-44.png" IRENDER="0" EMBEDDED="0" path="M0 0 L802.772 0 L802.772 567 L0 567 L0 0 Z" copath="M0 0 L802.772 0 L802.772 567 L0 567 L0 0 Z" ImageRes="0" gXpos="118.142362204725" gYpos="5116.37669291338" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="607.291023622046" YPOS="5158.67590551181" OwnPage="16" ItemID="238804464" PTYPE="4" WIDTH="295.708976377954" HEIGHT="256.007874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.709 0 L295.709 256.008 L0 256.008 L0 0 Z" copath="M0 0 L295.709 0 L295.709 256.008 L0 256.008 L0 0 Z" gXpos="607.291023622046" gYpos="5158.67590551181" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Code" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="void main () {"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  vec2 uv = gl_FragCoord.xy/resolution.xy;"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  vec4 video = texture2D(videoMap, uv);"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  vec2 unit = 1./resolution.xy;"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  float a = luminance(video.rgb) * TAU;"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  uv += vec2(cos(a),sin(a)) * unit;"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  a = luminance(texture2D(backbuffer, uv).rgb) * TAU;"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  uv += vec2(cos(a),sin(a)) * unit;"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  uv -= normalize(p) * unit;"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  vec4 frame = texture2D(backbuffer, uv);"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  float should = colorDistance(frame, video);"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  should = smoothstep(.3, .4, should);"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="  gl_FragColor = mix(frame, video, should - .01);"/>
+                <para PARENT="Code"/>
+                <ITEXT FONTSIZE="10" CH="}"/>
+                <para PARENT="Code"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="5750.47874015748" OwnPage="17" ItemID="232651792" PTYPE="2" WIDTH="802.771653543307" HEIGHT="591" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228840266118389" LOCALSCY="0.228840266118389" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Composition 1_07727.png" IRENDER="0" EMBEDDED="0" path="M0 0 L802.772 0 L802.772 591 L0 591 L0 0 Z" copath="M0 0 L802.772 0 L802.772 591 L0 591 L0 0 Z" ImageRes="0" gXpos="118.142362204725" gYpos="5750.47874015747" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="156.158110236221" YPOS="5751.65196850394" OwnPage="17" ItemID="238807424" PTYPE="4" WIDTH="325.354330708661" HEIGHT="580.348031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L325.354 0 L325.354 580.348 L0 580.348 L0 0 Z" copath="M0 0 L325.354 0 L325.354 580.348 L0 580.348 L0 0 Z" gXpos="156.158110236221" gYpos="3210.55086614173" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" LINESP="13" CPARENT="Text White Shadow"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="When I was a kid I remember putting a magnet onto the family TV screen to see what would happen, I was really curious since it was strictly forbidden by my parents. "/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="I was amazed by the flowing rainbows arcs attracted towards the magnetic field, it was like unveiling a whole new world behind the glass and scanlines, i was disturbing the primary use of our family cathodic device, and it was beautiful."/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="After many years using digital screens I almost forgot about the magic of analogue CRT monitors. But it’s still there. With CRT monitors you can feel the light, feel the beams of electrons and colors, sense the electric fields pulsating. It’s all organic and i can understand why TV’s were so mesmerizing back then, and why I often fell asleep in front of the mighty warm beam."/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="I don’t use magnets anymore but circuit bent video processors, DIY video mixers, analogue cameras and video feedback to create organic scanlines scapes. I love the organic granularity of CRT screens, being able to directly modulate electric flows to create colorful organic compositions, guiding shapes with feedback, bouncing on analogue waves and welcoming accidents, digging layers and layers of signals to find the right vista."/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="This picture is made by using a camera pointed at a CRT monitor which signal feed some hacked analogue video circuitry plugged into the same monitor and captured with a DSLR."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="A good old analogue feedback video loop, creating endless layers of colors and lights. "/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" CH="I used this setup for live performances before, connecting the DSLR output directly to video projectors."/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CPARENT="Author White" CH="Sébastien Labrunie"/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CPARENT="Author White" CH="youtu.be/dDKjWbpoZ7c"/>
+                <para PARENT="Default Paragraph Style"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="6385.95401574803" OwnPage="19" ItemID="232637632" PTYPE="2" WIDTH="804" HEIGHT="567.902362204725" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229190421892816" LOCALSCY="0.228992887985776" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="images/seb-2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.902 L0 567.902 L0 0 Z" copath="M0 0 L804 0 L804 567.902 L0 567.902 L0 0 Z" gXpos="118.142362204725" gYpos="6385.95401574803" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="156.158110236221" YPOS="6419.04661417323" OwnPage="19" ItemID="238822224" PTYPE="4" WIDTH="325.354330708661" HEIGHT="478.116850393703" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L325.354 0 L325.354 478.117 L0 478.117 L0 0 Z" copath="M0 0 L325.354 0 L325.354 478.117 L0 478.117 L0 0 Z" gXpos="156.158110236221" gYpos="3242.67023622048" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Code"/>
+                <ITEXT CH="d´ _Ô= xà†VÒÓ‰âDû+£&amp;»! ´N” ©À0~!š·`£&lt;Ø/‹r.ŒÅ3*Ž&amp;škÄ‰ãdvœ°Œ†šuB`²ÐŠ÷í‘"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="‘    $ZÍ³…4žà“Û)„µÞL€Ö°‚À"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="=ÞWd·/x.û |ˆm?$%@Zï•0»Êãùo„¼ìÁªtVPæ–˜ªaÞq"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="íþL32×a‰Gl=û±OŒ˜:VèB,7&amp;Þ ÌlmÎ´¬•{fÛ36í ¥Ÿ‰æ‡‚Ì &amp;ÝŠ'»óËË]É%Ÿy£î}µœí÷$V™/¡²ŸI$—»eãöÈß‚~äh;ØQ b,=¤QžÏ2]´*JÊÐü ‹æ4Î¿ ‚»«!}êA"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="Ñ´*bƒá€Ò¶;SÚ’SiDh´NªÈZëü4Ë’ cï÷·G}¶«—C¿p‘/B*&amp;eh­­-€ÿžî°É€Ù#&gt;î\Žd^p™´²P[NYÕsØÄ§±™·‚û"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="ed$ cðÌÍž SŸÌ‚ŒgÕyìçB•jËýàà€ÔY@ðgn˜leIEúLZk;Ö¢¹©ðÌ ¿¦uÅ®¬õŠ·WA’Sx·†KžÝ‹ùx«ÏD‚çÎ@(Ö4;û#àâ.    ­­^–&lt;ä8#ÝŒN_å¤"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="`AËàµ¬géÕ*¨¥–éN¬ŒÛoM½—U¤ªÒgWƒÒèÕžÌtÒŠ&lt;“Ö¡ ¶xþSTö¦¨6ßµÔRË†ZGÓú^wèÓ¢„Q©†‹jk·8€òËcß),6y…Ôc#ë‚q`‚à z²Ç–,•™‹?"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="hì}}!/¿vqø!à#[«±cÛîC"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="üúTX,ÆÏBüöÛ¶üòTØn‹ÃÇú¯ÿëW^Ì=–ßÚ&lt;ýæxýMaûl^ƒrä(í¥ù¿7¦¦Þ‚ß¹øü¹JàîŸþ¡/ÝÿÉã¯}Ç}S&lt;õÀwÝxÙ1&quot;‡&amp;¼ëÚ­­wýè ^oû3ÌÃ¯¼”ëê¶w…_ô^÷ç½ÿþíŸü7y RŸl’å˜Úšô¤ ^=„:Õ=WQ¥Š|Ëe‚^Ê$—9ÖªÇ´"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="¦²rrR”á0Ìˆv™_g`Ä¤vPk9çý¥ÊÎ–?ë‚@K¥£Ëf&quot;âDU«Bèò¨3fb"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="¤`óZ••,ËepÇà=oÐý4k³ÉáËUa¤¿yì°Ëú7·ø Ù.^öoüp©"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH=")p]3‡]"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH=" ¿µ9žuoÙ.    Ðàß»Ôá§YŽ¿‘pH;=tÏP¥ýš–Û…´ç8?‹6    ¬$¸³Àó"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="’÷ðÒcOX-°ÿ†ŽqS©¬˜™ÓHäíE€ŽKYÏ-ˆïÆg¬ÆÔÅè&amp;âA˜_Àb[0`    †4e&amp;$ 'Z¤à$"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="OÌ‰¹Nv`    "/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="ZXdYÌ·ðb$Ú‘H\´hÀ±    8ŠÐ Ga(ÝùsB&gt;ds ­­ Ú€u×ˆw„½&gt;Ã6‘"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="bÒ0côì,ŽÏzC÷D´ˆo½ý¿ú_~{ûy1;ƒ™YÌÏbþ„Hå=»Ï³Ý"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="Çyæ ŽšþÈ–»÷lyKÏÆâaae6nîMqÿ"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="ÛfNˆ™câäñðã—"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="Íî\¸w÷E½E1\¨Ž&lt;ôÞVï„¸ggpüMyâMññÚ¬’°cæ#1›p¯‹#3  oE§ƒ™ó"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="Xhƒ´HM¸ØÆwfõ±) ‰DBƒðx˜wÁ=-à6DNÀ³    TÖYkvÇ@ÀÉlŒ¸_;®ŸÄÐ ¿.»&gt;„Z6ptÉnE€÷€Ä+.¸I~à§Ù¨t8.Og’+7!ÿÖ[Wæo¯–üÏ/&lt;w*ÅŽÚÌœ²¤k–ò×]r×î-òÎ­­îÏ{¯m¸1ü³›¦èä±ü™g~eGñ¼øà5ï½V&lt;üÞ"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="þ©8¦óÝ—ÁËë“¯ñý£WŽŒÍTßÛY§Dµ¬žøµª áîrD}_Hk  d™sþ¾ôùÊï¿)&lt;ôÞ‹þ    |úç¯|òçÞþèÏ^àooùÏ‡n"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="Ÿú©À…~`˜z÷6 ß~úú"/>
+                <para PARENT="Code" LINESP="12"/>
+                <ITEXT CH="&gt;ócøâ-~ißïú™KÜ&gt;ú“ÛžxOë¡k¦&gt;õŽæý»[ó¯aöŸp÷åÍ×4ì’Ý"/>
+                <trail PARENT="Code" LINESP="12"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="156.158110236221" YPOS="6897.57118110236" OwnPage="19" ItemID="238819264" PTYPE="4" WIDTH="325.354330708661" HEIGHT="58.8048818897646" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L325.354 0 L325.354 58.8049 L0 58.8049 L0 0 Z" copath="M0 0 L325.354 0 L325.354 58.8049 L0 58.8049 L0 0 Z" gXpos="156.158110236221" gYpos="3721.19480314961" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" LINESP="13" CPARENT="Text White Shadow"/>
+                <ITEXT CPARENT="Author White" CH="Sébastien Labrunie"/>
+                <para LINESP="15"/>
+                <ITEXT CPARENT="Author White" CH="youtu.be/dDKjWbpoZ7c"/>
+                <trail LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="116.914015748032" YPOS="8927.05511811024" OwnPage="27" ItemID="111470208" PTYPE="2" WIDTH="804" HEIGHT="567.902362204726" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229190421892816" LOCALSCY="0.228992887985777" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="images/Britney.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.902 L0 567.902 L0 0 Z" copath="M0 0 L804 0 L804 567.902 L0 567.902 L0 0 Z" gXpos="116.914015748032" gYpos="8927.05511811024" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="11468.2318110236" OwnPage="35" ItemID="111467376" PTYPE="2" WIDTH="804" HEIGHT="567.826771653547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228962407924817" LOCALSCY="0.228962407924817" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/jitterspace.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="11468.2318110236" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="9562.40598425197" OwnPage="29" ItemID="111481536" PTYPE="2" WIDTH="804" HEIGHT="567.826771653547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229190421892816" LOCALSCY="0.228962407924817" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="images/flopine0.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="9562.40598425197" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="10197.6056692913" OwnPage="31" ItemID="111478704" PTYPE="2" WIDTH="804" HEIGHT="567.902362204726" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229190421892816" LOCALSCY="0.228992887985777" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="images/Ibniz.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.902 L0 567.902 L0 0 Z" copath="M0 0 L804 0 L804 567.902 L0 567.902 L0 0 Z" gXpos="118.142362204725" gYpos="10197.6056692913" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="149.071496062992" YPOS="8956.12283464568" OwnPage="27" ItemID="238816304" PTYPE="4" WIDTH="339.527559055118" HEIGHT="339.842519685035" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 339.843 L0 339.843 L0 0 Z" copath="M0 0 L339.528 0 L339.528 339.843 L0 339.843 L0 0 Z" gXpos="149.071496062992" gYpos="8956.12283464568" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Code" FONTSIZE="10"/>
+                <ITEXT FONT="Consolas Regular" CH="// VCR style inspired from https://www.shadertoy.com/view/ldjGzV"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="#define t iTime"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="#define rot(a) mat2(C=cos(a),S=sin(a),-S,C)"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="float C,S;"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="void mainImage( out vec4 fragColor, in vec2 fragCoord )"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="{"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    vec2 uv = fragCoord.xy / iResolution.xy;"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    float hs=step(0.3,sin(t+2.+4.*sin(t*9.))) "/>
+                <tab FONT="Consolas Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="*(sin(uv.y*10.+t*5.)+sin(t)*sin(t*20.)*.5)*.05;"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    uv.x+=hs;"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    float vs = step(0.8,sin(t+2.*sin(t*4.))) "/>
+                <tab FONT="Consolas Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="*(sin(t)*sin(t*20.)+cos(t)*sin(t*200.)*.1);"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    uv.y=fract(uv.y+vs);"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    vec3 c=texture(iChannel0,uv).rgb;"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    c.xy*=rot(iTime*.3);"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    c.yz*=rot(iTime*.5);"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    c.xy*=rot(iTime*.7);"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    c.yz*=rot(iTime*.9);"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="    fragColor = vec4(floor(5.*abs(c))*.2,1.0);"/>
+                <para PARENT="Code" LINESPMode="0" LINESP="11"/>
+                <ITEXT FONT="Consolas Regular" FONTSIZE="10" CH="}"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <ITEXT CPARENT="Author White" CH="Jonathan Giroux"/>
+                <para PARENT="Code" LINESP="15"/>
+                <ITEXT CPARENT="Author White" CH="shadertoy.com/view/4sffzS"/>
+                <trail PARENT="Code" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.071496062992" YPOS="9609.30988188976" OwnPage="29" ItemID="238813344" PTYPE="4" WIDTH="276.928503937008" HEIGHT="474.916614173229" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L276.929 0 L276.929 474.917 L0 474.917 L0 0 Z" copath="M0 0 L276.929 0 L276.929 474.917 L0 474.917 L0 0 Z" gXpos="142.071496062992" gYpos="9609.30988188976" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Code" FEATURES="inherit shadowed" FCOLOR="White" SCOLOR="Rich Black"/>
+                <ITEXT FCOLOR="White" CH="float rand (float x)"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="{return fract(sin(x)*256.43);}"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="float HexDist (vec2 uv) {"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  uv = abs(uv);"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="   return max(dot(uv, normalize(hr)), uv.x);"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="}"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="vec4 HexGrid (vec2 uv) {"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  uv *= detail;"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  vec2 ga = mod(uv,hr)-hr*0.5;"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  vec2 gb = mod(uv-hr*0.5, hr)-hr*0.5;"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  vec2 guv = dot(ga,ga)&lt;dot(gb,gb) ? ga : gb;"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  guv = fract(guv);"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  vec2 id = uv-guv;"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  guv.y = .5-HexDist(guv);"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  return vec4(guv.x, guv.y, id.x, id.y);"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="}"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="void mainImage( out vec4 fragColor, in vec2 fragCoord )"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="{"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  vec2 uv = 2.*(fragCoord.xy / iResolution.xy)-1.;"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  uv.x *= iResolution.x / iResolution.y;"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  uv.x -= 0.25;"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  uv = mix(uv, floor(uv*15.)/10., length(uv));"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  float hx = HexGrid(uv).x;"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  uv.y += fract(uv.x*5.);"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  vec4 hc = HexGrid(uv);"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  vec3 col = mix(vec3(rand(hc.z)*0.8, rand(hc.w), 1.),"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="                 vec3(1., rand(hc.z)*0.6, rand(hc.w)),"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="                 step(0.05,hc.y+sin(time)));"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  col *= smoothstep(0.05,0.4,hx+sin(time*2.));"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  col = pow(col,vec3(0.6));"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="  fragColor = vec4(col, 1.0);"/>
+                <para PARENT="Code"/>
+                <ITEXT FCOLOR="White" CH="}"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <para PARENT="Code"/>
+                <ITEXT CPARENT="Author White" FCOLOR="White" CH="Flopine"/>
+                <para PARENT="Code" LINESP="15"/>
+                <ITEXT CPARENT="Author White" FCOLOR="White" CH="shadertoy.com/view/wdSSWW"/>
+                <para PARENT="Code" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139" YPOS="10225.1703543307" OwnPage="31" ItemID="241786992" PTYPE="4" WIDTH="273.928503937008" HEIGHT="513.74622047244" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L273.929 0 L273.929 513.746 L0 513.746 L0 0 Z" copath="M0 0 L273.929 0 L273.929 513.746 L0 513.746 L0 0 Z" gXpos="139" gYpos="10225.1703543307" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" CPARENT="Text White Shadow" BGCOLOR="Rich Black"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="Consolas Regular" FONTSIZE="10" BGCOLOR="Rich Black" CH="One of my professors recounted his first years as a researcher. At that time, programs were written to punch cards, and executed at a snail’s pace. Therefore he could only test his program twice a day, at best. To be efficient, one had to be cautious and exigent."/>
+                <para PARENT="Text" LINESP="10"/>
+                <para PARENT="Text" LINESP="10"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="Consolas Regular" FONTSIZE="10" BGCOLOR="Rich Black" CH="Nowadays, millions of lines of code are compiled in a few seconds. Capitalism market drives uncountable students in a digital eldorado where companies survive through delivering half-baked products. Quality is not the priority, and we are affected, from personal (work conditions, self-expression) to universal levels (planned obsolescence, global warming)."/>
+                <para PARENT="Text" LINESP="10"/>
+                <para PARENT="Text" LINESP="10"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="Consolas Regular" FONTSIZE="10" BGCOLOR="Rich Black" CH="I found an interest in non-conventional ways of programming, because it forces me to slow down and thoughtfully think about my code. This requires discipline, patience, and actually puts me in a zen state. I may type very slowly, but each letter would be the result of a clear understanding of my footsteps."/>
+                <para PARENT="Text" LINESP="10"/>
+                <para PARENT="Text" LINESP="10"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="Consolas Regular" FONTSIZE="10" BGCOLOR="Rich Black" CH="IBNIZ is such a framework, which generates visuals and sounds from a very concise code. Each character has a meaning. They actually instruct the processor to hold values in memory, and do some mathematical operations with them. The result is a colorful, fractal-oriented animation, and a somewhat experimental music."/>
+                <para PARENT="Text" LINESP="10"/>
+                <para PARENT="Text" LINESP="10"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="Consolas Regular" FONTSIZE="10" BGCOLOR="Rich Black" CH="In every tile shown on this page, the source code is written in the upper left corner. Have a look, and try for yourself."/>
+                <para PARENT="Text" LINESP="10"/>
+                <para PARENT="Text" LINESP="12"/>
+                <para PARENT="Text" LINESP="12"/>
+                <ITEXT CPARENT="Author White" FONT="IBM Plex Mono Medium" FONTSIZE="10" BGCOLOR="Rich Black" CH="Jonathan Giroux"/>
+                <para PARENT="Text" LINESP="15"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Medium" FONTSIZE="10" BGCOLOR="Rich Black" CH="youtu.be/vgcQ6k1rEFA"/>
+                <para PARENT="Text" LINESP="15"/>
+                <ITEXT CPARENT="Author White" FONT="IBM Plex Mono Medium" FONTSIZE="10" BGCOLOR="Rich Black" CH="IBNIZ by Viznut"/>
+                <para PARENT="Text" LINESP="15"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Medium" FONTSIZE="10" BGCOLOR="Rich Black" CH="pelulamu.net/ibniz"/>
+                <ITEXT CPARENT="Text White Shadow" FONT="IBM Plex Mono Regular" FONTSIZE="10" BGCOLOR="Rich Black" CH="/"/>
+                <para PARENT="Text" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="10832.9565354331" OwnPage="33" ItemID="111475872" PTYPE="2" WIDTH="804" HEIGHT="567.826771653547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.229190421892816" LOCALSCY="0.228933333333335" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="images/ben-moire.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="10832.956535433" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="142.402204724409" YPOS="10833.8541732283" OwnPage="33" ItemID="241763312" PTYPE="4" WIDTH="328.928503937008" HEIGHT="566.929133858315" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L328.929 0 L328.929 566.929 L0 566.929 L0 0 Z" copath="M0 0 L328.929 0 L328.929 566.929 L0 566.929 L0 0 Z" gXpos="142.402204724409" gYpos="10833.8541732283" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" LINESP="12" CPARENT="Text White" FONTSIZE="9" BGCOLOR="Rich Black"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="10" BGCOLOR="Rich Black" CH="&quot;Le paysage, ineffablement assoupi, avait cette moire magnifique que font sur les prairies et sur les rivières les déplacements de l'ombre et de la clarté.&quot;"/>
+                <para PARENT="Text" LINESP="14"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="10" BGCOLOR="Rich Black" CH="&quot;The landscape, calm and peaceful, displayed the enchanting hazy effects of light and shade over the fields and river&quot;"/>
+                <para PARENT="Text" LINESP="14"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="10" BGCOLOR="Rich Black" CH="(Victor Hugo, Quatre-vingt-treize, 1874)"/>
+                <para PARENT="Text" LINESP="14"/>
+                <para PARENT="Text" LINESP="14"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="10" BGCOLOR="Rich Black" CH="&quot;Moiré&quot; is an optical phenomenon, whose description does not reach a consensus: sometimes as &quot;undulating reflection&quot;, sometimes as &quot;interference patterns between networks&quot;, or even as &quot;alternance of ripples, of mat and glossy welts.&quot; They can occur as wind flows on a landscape, or on the surface of a quiet lake. The term was first used to describe a kind of shimmering fabric, on which concentric reflections can be seen, changing with light."/>
+                <para PARENT="Text" LINESP="14"/>
+                <para PARENT="Text" LINESP="14"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="10" BGCOLOR="Rich Black" CH="Starting with the technological era, the term adopted a new usage, although it still describes the same optical effect. Indeed, digital information is made of samples, cut into little bits which are then stored, transmitted, filtered, copied, distorted... These bits are pixels in the case of images, or voltage curves for sounds. Thus, the sampling resolution becomes a critical topic: how many pixels are needed to accurately reproduce a picture? And if some elements are smaller than a single pixel, what is their fate? For instance, a grid, or a frame, where each gap is smaller than a pixel, could not be reliably depicted. Gaps may appear on a pixel out of two, of nine, twelve, twenty, depending on the scale ratio between the offset and the pixel. At this moment, an effect of stripes or contrasted curves appears. For digital photographers, or 3D artists, to name a few, this effect is often unintended, unintentional, and disturbing. The high contrast of moiré takes precedence over the original intent of the artist, and the latter aims at getting rid of the artefact."/>
+                <para PARENT="Text" LINESP="14"/>
+                <para PARENT="Text" LINESP="14"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="10" BGCOLOR="Rich Black" CH="Through its high contrast, its unexpected shapes, apparently without any physical basis, and above all its spontaneous emergence, which is difficult to control, moiré continues to fascinate."/>
+                <para PARENT="Text" LINESP="14"/>
+                <para PARENT="Text" LINESP="12"/>
+                <ITEXT CPARENT="Author White" FONT="IBM Plex Mono Medium" FONTSIZE="10" BGCOLOR="Rich Black" CH="Benjamin Vedrenne"/>
+                <para PARENT="Text" LINESP="12"/>
+                <ITEXT CPARENT="Author White" FONT="IBM Plex Mono Medium" FONTSIZE="10" BGCOLOR="Rich Black" CH="glkitty.com"/>
+                <para PARENT="Text" LINESP="12"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="12103.5070866142" OwnPage="37" ItemID="111487200" PTYPE="2" WIDTH="804" HEIGHT="567.826771653547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228962407924817" LOCALSCY="0.228962407924817" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/pooh.1.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204724" gYpos="12103.5070866142" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="519.528188976378" YPOS="12331.7752755905" OwnPage="38" ItemID="111490032" PTYPE="2" WIDTH="419.527559055118" HEIGHT="296.587327952307" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.119591664496898" LOCALSCY="0.119591664496898" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Gizmos.png" IRENDER="0" EMBEDDED="0" path="M0 0 L419.528 0 L419.528 296.587 L0 296.587 L0 0 Z" copath="M0 0 L419.528 0 L419.528 296.587 L0 296.587 L0 0 Z" gXpos="519.528188976378" gYpos="12331.7752755905" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="619.035236220473" YPOS="12145.388976378" OwnPage="38" ItemID="241766272" PTYPE="4" WIDTH="264.733937007874" HEIGHT="229" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L264.734 0 L264.734 229 L0 229 L0 0 Z" copath="M0 0 L264.734 0 L264.734 229 L0 229 L0 0 Z" gXpos="619.035236220473" gYpos="12145.388976378" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CPARENT="Text White" CH="With the apparition of 3D worlds editor, we had to invent new tools. Some of them are called gizmos, they are affordant geometric shapes that can translate, rotate and scale. When using them, we often drift the cursor and tear the mesh into a distorted dimension. It is a mistake, but it does spring an interesting aesthetic."/>
+                <para PARENT="Text" ALIGN="2"/>
+                <ITEXT CPARENT="Text White" CH="Here is multiple Winnie-the-Pooh getting crushed into a rigging vertex storm. The contradiction of a corpse getting pulverized and a familiar happy face adds a sophisticated feeling to these triangles"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="11" FEATURES="inherit shadowed" CH="."/>
+                <para PARENT="Text" ALIGN="2"/>
+                <para PARENT="Text" ALIGN="2"/>
+                <para PARENT="Text" ALIGN="2"/>
+                <ITEXT CPARENT="Author White" CH="Léon Denise"/>
+                <para PARENT="Text" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="7656.58015748032" OwnPage="23" ItemID="111473040" PTYPE="2" WIDTH="804" HEIGHT="567.826771653545" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.230042918454936" LOCALSCY="0.230042918454936" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/robotbugs_clean.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="7656.58015748038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="12738.7823622047" OwnPage="39" ItemID="111484368" PTYPE="2" WIDTH="804" HEIGHT="567.826771653547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228962407924817" LOCALSCY="0.228962407924817" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/lipschitzglitch2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="12738.7823622048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="186.335275590551" YPOS="13173.3807874016" OwnPage="39" ItemID="241769232" PTYPE="4" WIDTH="265" HEIGHT="92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L265 0 L265 92 L0 92 L0 0 Z" copath="M0 0 L265 0 L265 92 L0 92 L0 0 Z" gXpos="186.335275590551" gYpos="13173.3807874016" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="This image contains artefacts linked to the Lipschitz continuity. It describes the functions whose intensity of change between two points does not exceed a certain threshold."/>
+                <para PARENT="Text"/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" CH="The Lipschitz constant takes a conic shape, which does not cross the function curve."/>
+                <para PARENT="Text"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="259.724409448819" YPOS="12990.1653543307" OwnPage="39" ItemID="111464544" PTYPE="2" WIDTH="136.08" HEIGHT="84.48" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.24" LOCALSCY="0.24" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="images/lipschitz.png" IRENDER="0" EMBEDDED="0" path="M0 0 L136.08 0 L136.08 84.48 L0 84.48 L0 0 Z" copath="M0 0 L136.08 0 L136.08 84.48 L0 84.48 L0 0 Z" gXpos="259.724409448819" gYpos="12990.1653543307" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="224.236181102363" YPOS="13076.3571653543" OwnPage="39" ItemID="241778112" PTYPE="4" WIDTH="207.198188976378" HEIGHT="84.6426062992432" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L207.198 0 L207.198 84.6426 L0 84.6426 L0 0 Z" copath="M0 0 L207.198 0 L207.198 84.6426 L0 84.6426 L0 0 Z" gXpos="224.236181102363" gYpos="13076.3571653543" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="14" FONT="Georgia Regular" FONTSIZE="19" FEATURES="inherit" FCOLOR="White"/>
+                <ITEXT FONT="Georgia Regular" FONTSIZE="14" FEATURES="inherit" FCOLOR="White" CH="Lipschitz "/>
+                <para ALIGN="1" LINESPMode="1" LINESP="14"/>
+                <ITEXT FONT="Georgia Regular" FONTSIZE="14" FEATURES="inherit" FCOLOR="White" CH="Continuity"/>
+                <trail ALIGN="1" LINESPMode="1" LINESP="14"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="587.721102362205" YPOS="13175.0078740157" OwnPage="40" ItemID="241772192" PTYPE="4" WIDTH="265" HEIGHT="106.089448818897" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L265 0 L265 106.089 L0 106.089 L0 0 Z" copath="M0 0 L265 0 L265 106.089 L0 106.089 L0 0 Z" gXpos="587.721102362205" gYpos="13175.0078740157" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="These images are the results of a raymarching algorithm whose signed distance function ventures beyond Lipschitz continuity. The visual effects produced are like fragmented optical layers of a distorted lens."/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="Author White" CH="Léon Denise"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="13374.0576377953" OwnPage="41" ItemID="111492864" PTYPE="2" WIDTH="804" HEIGHT="567.826771653547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228962407924817" LOCALSCY="0.228962407924817" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Elie.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="13374.0576377954" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="149.071496062992" YPOS="13374.9552755906" OwnPage="41" ItemID="241775152" PTYPE="4" WIDTH="318.928503937008" HEIGHT="566.929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L318.929 0 L318.929 566.929 L0 566.929 L0 0 Z" copath="M0 0 L318.929 0 L318.929 566.929 L0 566.929 L0 0 Z" gXpos="149.071496062992" gYpos="9563.3036220472" gWidth="0" gHeight="0" PSTYLE="Code" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Code" LINESP="9" FONTSIZE="9" FEATURES="inherit shadowed" SCOLOR="Rich Black"/>
+                <ITEXT FONTSIZE="10" CH="// Saturated Mounts"/>
+                <para PARENT="Code" LINESP="9"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="float mountsTime = 0.1;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="float stepTime = 2.7;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="float shapeTime = 216.84;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="float colorTime = 6.0;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="float sphere(vec3 p, float r) { return length(p) - r; }"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="float merge(float a, float b) { return min(a, b); }"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="float mounts(vec3 p) {"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="p.x += iTime * .1;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="float h = sin(p.x) * sin(p.z * 10.) * 1.5 + 0.3"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="* sin(mountsTime * 2.3);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="return p.y - h; }"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="float scene(vec3 p) {"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="float s = sphere(p, 1.5);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="s = merge(s, mounts(p));"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="s = merge(s, sphere(p - vec3(0.,-1.,5.), 5.0));"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="return s; }"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="mat2 rot2(float theta) {"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="float c = cos(theta), s = sin(theta);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="return mat2(c, s, -s, c); }"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="vec3 march(vec2 uv) {"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="vec3 p = vec3(0.,1.,-5.);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="vec3 d = vec3(uv, 1.);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="d.yz *= rot2(-0.2);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="d = normalize(d);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="float st = mix(.01, .1, abs(uv.x + .5*uv.y + sin(stepTime)));"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="float i = 0.;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="for (;i &lt; 1.;i+=st) {"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="float s = scene(p);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="p += s * d * 0.95;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="if (s&lt;.01) break;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="}"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="vec3 col = 0.5 + 0.5 * cos(colorTime + i * 3. + uv.xyx + vec3(0,2,4));"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="return (col-step(1., i)) * (1.-i); }"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="void mainImage( out vec4 fragColor, in vec2 fragCoord ) {"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="vec2 nuv = fragCoord/iResolution.xy;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="vec2 uv = (nuv - 0.5) * iResolution.xy"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="/ iResolution.y;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="vec3 e = vec3(1./iResolution.x,1./iResolution.y,0.);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="vec3 col = vec3(0.);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="int aasteps = 6;"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="for (int x = 0 ; x &lt; aasteps ; ++x)"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="for (int y = 0 ; y &lt; aasteps ; ++y)"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <tab FONTSIZE="10"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="col += march(uv + vec2(x, y)"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <tab FONTSIZE="10"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="* e.xy / float(aasteps));"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="col /= float(aasteps * aasteps);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <tab FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH="fragColor = vec4(col,1.0);"/>
+                <para PARENT="Code" LINESP="9"/>
+                <ITEXT FONTSIZE="10" CH="}"/>
+                <para PARENT="Code" LINESP="9"/>
+                <para LINESP="9"/>
+                <para LINESP="11"/>
+                <ITEXT CPARENT="Author White" CH="Élie Michel"/>
+                <para LINESP="15"/>
+                <ITEXT CPARENT="Author White" CH="shadertoy.com/view/3sBSWW"/>
+                <trail LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="14009.3329133858" OwnPage="43" ItemID="111518352" PTYPE="2" WIDTH="804" HEIGHT="567.826771653547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228962407924817" LOCALSCY="0.228962407924817" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/ThomasHooper_M.png" IRENDER="0" EMBEDDED="0" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="14009.332913386" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="149.071496062992" YPOS="14036.0573228346" OwnPage="43" ItemID="241760352" PTYPE="4" WIDTH="339.527559055118" HEIGHT="256.942677165354" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 256.943 L0 256.943 L0 0 Z" copath="M0 0 L339.528 0 L339.528 256.943 L0 256.943 L0 0 Z" gXpos="149.071496062992" gYpos="12765.5067716535" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" CPARENT="Text White Shadow"/>
+                <ITEXT CPARENT="Text White" CH="A wonderful aspect of ray marching is the ease of trying unusual concepts; what happens if time only subjectively moves forward when we move forward?"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="Text White" CH="A ray marcher takes big jumps through a scene, and smaller and smaller steps as it approaches the geometry surface. If time accelerates by a fixed amount for each step, small or large, strange things happen..."/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="Text White" CH="As you near the surface you may find it gets swept away, or you could jump right into the middle of an object. This is highly dependent on how the geometry moves over time, static objects will behave normally, fast moving objects become ever more distorted."/>
+                <para/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="Author White" CH="Thomas Hooper"/>
+                <para/>
+                <ITEXT CPARENT="Author White" CH="shadertoy.com/view/WtfGz7"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.142362204725" YPOS="14644.6081889764" OwnPage="45" ItemID="111507024" PTYPE="2" WIDTH="804" HEIGHT="567.826771653547" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.228962407924817" LOCALSCY="0.228962407924817" LOCALX="-0.131713675570081" LOCALY="2.18376459494688" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/ben-goat-2.png" IRENDER="0" EMBEDDED="0" LOCK="1" path="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" copath="M0 0 L804 0 L804 567.827 L0 567.827 L0 0 Z" gXpos="118.142362204725" gYpos="14644.6081889766" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="141.331338582678" YPOS="14683.3582677165" OwnPage="45" ItemID="241798832" PTYPE="4" WIDTH="177.610393700787" HEIGHT="28.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L177.61 0 L177.61 28.5 L0 28.5 L0 0 Z" copath="M0 0 L177.61 0 L177.61 28.5 L0 28.5 L0 0 Z" gXpos="141.331338582678" gYpos="14683.3582677165" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="11"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="11" CH="This fanzine"/>
+                <ITEXT FONTSIZE="11" CH=" "/>
+                <ITEXT CPARENT="Text White" FONTSIZE="11" CH=" was made by"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.071496062992" YPOS="11499" OwnPage="35" ItemID="241801792" PTYPE="4" WIDTH="261.928503937008" HEIGHT="511.231811023601" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L261.929 0 L261.929 511.232 L0 511.232 L0 0 Z" copath="M0 0 L261.929 0 L261.929 511.232 L0 511.232 L0 0 Z" gXpos="149.071496062992" gYpos="11499" gWidth="0" gHeight="0" PSTYLE="Text" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Text" CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="When you work with numbers in the digital realm, computers have to approximate rational numbers. The precision of this approximation starts to fade away whenever you are using huge numbers. In a 3D space, if you navigate for a long time a in the same direction, you will approach an unstable state called floating jittering space. It breaks the continuity and produce aliasing. "/>
+                <para PARENT="Text"/>
+                <ITEXT CPARENT="Text White" CH="This image is an example of how jittering can produce interesting shatered geometry."/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="Author White" CH="Léon Denise"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="749.543228346457" YPOS="8349" OwnPage="26" ItemID="241807712" PTYPE="4" WIDTH="147.8668503937" HEIGHT="510.682204724408" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L147.867 0 L147.867 510.682 L0 510.682 L0 0 Z" copath="M0 0 L147.867 0 L147.867 510.682 L0 510.682 L0 0 Z" gXpos="749.543228346457" gYpos="7078.44944881889" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="De l'ère du programme,"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="accueillons la déesse"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="Perfection impatiente,"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="omnisciente on la sait"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="Vêtue de quelques bits "/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="elle enchante la détresse"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="Impalpable, inodore, "/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="sa texture disparait."/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="Visages inexpressifs, "/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="paquets d'individus"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="L'hagard voit défiler"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="machines tissant leur toile"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="Grillages de pixels, "/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="sémantiques disparues"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="De l'erreur et de l'âme "/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Text White" FONT="Georgia Regular" FONTSIZE="10" CH="on a tombé le voile."/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+                <ITEXT CPARENT="Author White" CH="Clara R/"/>
+                <para PARENT="Text" ALIGN="0" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="596.163346456693" YPOS="15092.7105511811" OwnPage="46" ItemID="241784032" PTYPE="4" WIDTH="227.721811023622" HEIGHT="27.3918110236009" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.722 0 L227.722 27.3918 L0 27.3918 L0 0 Z" copath="M0 0 L227.722 0 L227.722 27.3918 L0 27.3918 L0 0 Z" gXpos="596.163346456693" gYpos="15092.7105511811" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONTSIZE="10"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="10" CH="Flying goat found by "/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT CPARENT="Text White" FONTSIZE="10" CH="Benjamin Vedrenne."/>
+                <para ALIGN="1" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="204.339212598426" YPOS="14721.1929133858" OwnPage="45" ItemID="241810672" PTYPE="4" WIDTH="96.3070866141732" HEIGHT="14" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L96.3071 0 L96.3071 14 L0 14 L0 0 Z" copath="M0 0 L96.3071 0 L96.3071 14 L0 14 L0 0 Z" gXpos="204.339212598426" gYpos="14721.1929133858" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Léon Denise"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="164.000629921261" YPOS="14744.9251968504" OwnPage="45" ItemID="241813632" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="164.000629921261" gYpos="14744.9251968504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Florine Fouquart"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="214.339212598426" YPOS="14769.0748031496" OwnPage="45" ItemID="241792912" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="214.339212598426" gYpos="14769.0748031496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Jonathan Giroux"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="184.165984251969" YPOS="14795.0275590551" OwnPage="45" ItemID="241804752" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="184.165984251969" gYpos="14795.0275590551" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Thomas Hooper"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="230.788031496064" YPOS="14817.9094488189" OwnPage="45" ItemID="241816592" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="230.788031496064" gYpos="14817.9094488189" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Ktalyze"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="311.417952755906" YPOS="14911.3582677165" OwnPage="45" ItemID="241789952" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="311.417952755906" gYpos="14911.3582677165" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Kaspar Ravel"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="285.008503937008" YPOS="14842.3582677165" OwnPage="45" ItemID="241795872" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="285.008503937008" gYpos="14842.3582677165" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Sébastien Labrunie"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="278.772283464568" YPOS="14864.0433070866" OwnPage="45" ItemID="241819552" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="278.772283464568" gYpos="14864.0433070866" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Élie Michel"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="242.158110236221" YPOS="14890.1929133858" OwnPage="45" ItemID="241822512" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="242.158110236221" gYpos="14890.1929133858" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Marie Mollins"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="346.512440944882" YPOS="14985.3031496063" OwnPage="45" ItemID="493348288" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="346.512440944882" gYpos="14985.3031496063" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Benjamin Vedrenne"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="282.874645669292" YPOS="14935.2086614173" OwnPage="45" ItemID="493351248" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="282.874645669292" gYpos="14935.2086614173" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Clara Rigaud"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="342.969133858268" YPOS="14960.248031496" OwnPage="45" ItemID="493336448" PTYPE="4" WIDTH="135.857637795275" HEIGHT="13.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" copath="M0 0 L135.858 0 L135.858 13.5 L0 13.5 L0 0 Z" gXpos="342.969133858268" gYpos="14960.248031496" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1"/>
+                <ITEXT CPARENT="Text White" FONT="IBM Plex Mono Regular" CH="Sonia Saroya"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="496.466850393701" YPOS="162.412047244095" OwnPage="0" ItemID="111495696" PTYPE="2" WIDTH="465.650236220472" HEIGHT="466" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.232825118110236" LOCALSCY="0.232825118110236" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/cover.2.png" IRENDER="0" EMBEDDED="0" path="M0 0 L465.65 0 L465.65 466 L0 466 L0 0 Z" copath="M0 0 L465.65 0 L465.65 466 L0 466 L0 0 Z" ImageRes="0" gXpos="496.466850393701" gYpos="162.412047244095" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="263.655495462113" YPOS="15078.9380038581" OwnPage="45" ItemID="493339408" PTYPE="4" WIDTH="227.721811023622" HEIGHT="27.3918110236009" FRTYPE="0" CLIPEDIT="0" ROT="343.522738474797" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.722 0 L227.722 27.3918 L0 27.3918 L0 0 Z" copath="M0 0 L227.722 0 L227.722 27.3918 L0 27.3918 L0 0 Z" gXpos="263.655495462113" gYpos="15078.9380038581" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONTSIZE="10"/>
+                <ITEXT FCOLOR="White" CH=" Labrunie and Jonathan Giroux."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="184.614962531107" YPOS="15105.8142318812" OwnPage="45" ItemID="493345328" PTYPE="4" WIDTH="227.721811023622" HEIGHT="27.3918110236009" FRTYPE="0" CLIPEDIT="0" ROT="341.287238713997" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.722 0 L227.722 27.3918 L0 27.3918 L0 0 Z" copath="M0 0 L227.722 0 L227.722 27.3918 L0 27.3918 L0 0 Z" gXpos="184.614962531107" gYpos="15105.8142318812" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONTSIZE="10" FCOLOR="White"/>
+                <ITEXT FONTSIZE="10" FCOLOR="White" CH="Cover by Sébastien"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="556.941254330709" YPOS="72.75" OwnPage="0" ItemID="493342368" PTYPE="4" WIDTH="344.701428346457" HEIGHT="128.668582677165" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L344.701 0 L344.701 128.669 L0 128.669 L0 0 Z" copath="M0 0 L344.701 0 L344.701 128.669 L0 128.669 L0 0 Z" gXpos="556.941254330709" gYpos="72.75" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="14" FCOLOR="White"/>
+                <ITEXT CPARENT="Title Cookie" FCOLOR="White" CH="COOKIE"/>
+                <para ALIGN="1" LINESP="14"/>
+                <para ALIGN="1" LINESP="14"/>
+                <para ALIGN="1" LINESP="14"/>
+                <ITEXT CPARENT="Title Collective" FCOLOR="White" CH="COLLECTIVE"/>
+                <trail ALIGN="1" LINESP="14"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="568.5" YPOS="181.576062992126" OwnPage="0" ItemID="114677200" PTYPE="4" WIDTH="77.25" HEIGHT="15.42" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L77.25 0 L77.25 15.42 L0 15.42 L0 0 Z" copath="M0 0 L77.25 0 L77.25 15.42 L0 15.42 L0 0 Z" gXpos="568.5" gYpos="181.576062992126" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT CPARENT="Title Text" FCOLOR="White" CH="NUMBER 2"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="817.665354330709" YPOS="181.245354330708" OwnPage="0" ItemID="114659440" PTYPE="4" WIDTH="77.25" HEIGHT="15.42" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L77.25 0 L77.25 15.42 L0 15.42 L0 0 Z" copath="M0 0 L77.25 0 L77.25 15.42 L0 15.42 L0 0 Z" gXpos="817.665354330709" gYpos="181.245354330709" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FCOLOR="White"/>
+                <ITEXT CPARENT="Title Text" FCOLOR="White" CH="MAY 2019"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="630.184409448818" YPOS="14926.2617322835" OwnPage="46" ItemID="114674240" PTYPE="4" WIDTH="234.894960629922" HEIGHT="15.9882677165006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" copath="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" gXpos="630.184409448818" gYpos="14926.2617322835" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="Random Pixel Order"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="677.019055118109" YPOS="14900.2617322835" OwnPage="46" ItemID="114662400" PTYPE="4" WIDTH="234.894960629922" HEIGHT="15.9882677165006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" copath="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" gXpos="677.019055118109" gYpos="14900.2617322835" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="Glitch Artists Collective"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="618.8537007874" YPOS="14858.5924409449" OwnPage="46" ItemID="114686080" PTYPE="4" WIDTH="234.894960629922" HEIGHT="15.9882677165006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" copath="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" gXpos="618.8537007874" gYpos="14858.5924409449" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="by looking at what our friends do:"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="643.019055118109" YPOS="14832.5924409449" OwnPage="46" ItemID="114680160" PTYPE="4" WIDTH="234.894960629922" HEIGHT="15.9882677165006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" copath="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" gXpos="643.019055118109" gYpos="14832.5924409449" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="Yet you can "/>
+                <ITEXT CH="continue your journey"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="674.019055118109" YPOS="14810.2617322835" OwnPage="46" ItemID="114689040" PTYPE="4" WIDTH="234.894960629922" HEIGHT="15.9882677165006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" copath="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" gXpos="674.019055118109" gYpos="14810.2617322835" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="we can not browse all its splendor."/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="686.019055118109" YPOS="14788.2617322835" OwnPage="46" ItemID="114692000" PTYPE="4" WIDTH="234.894960629922" HEIGHT="15.9882677165006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" copath="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" gXpos="686.019055118109" gYpos="14788.2617322835" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="Glitches are an immense ocean and"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="563.184409448818" YPOS="14948.0963779528" OwnPage="46" ItemID="114668320" PTYPE="4" WIDTH="234.894960629922" HEIGHT="15.9882677165006" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" copath="M0 0 L234.895 0 L234.895 15.9883 L0 15.9883 L0 0 Z" gXpos="563.184409448818" gYpos="14948.0963779528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle CPARENT="Text White"/>
+                <ITEXT CPARENT="Text White" CH="Spektrum Crush"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
